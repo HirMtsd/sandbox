@@ -13,13 +13,16 @@
 ## 情報セキュリティ関係企業
 |No|URL|名称|カナ名称
 |--:|:--|:--|:--|
-|  1|https://blog.trendmicro.co.jp/        |Trend Micro       |トレンドマイクロ        |
-|  2|https://www.lac.co.jp/lacwatch/       |LAC               |ラック                  |
-|  3|https://www.fireeye.jp/blog/          |FireEye           |ファイアアイ            |
-|  4|https://blog.kaspersky.co.jp/         |Kaspersky         |カスペルスキー          |
-|  5|https://www.eset.com/jp/blog/         |ESET              |イーセット              |
-|  6|https://www.cybereason.co.jp/blog/    |Cybereason        |サイバーリーズン        |
-|  7|https://www.crowdstrike.jp/resources/ |CrowdStrike       |クラウドストライク      |
-|  8|https://www.sophos.com/ja-jp/labs.aspx|Sophos            |ソフォス                |
-|  9|https://unit42.paloaltonetworks.jp/   |Palo Alto Networks|パロアルトネットワークス|
+|  1|https://blog.trendmicro.co.jp/              |Trend Micro         |トレンドマイクロ        |
+|  2|https://www.lac.co.jp/lacwatch/             |LAC                 |ラック                  |
+|  3|https://www.fireeye.jp/blog/                |FireEye             |ファイアアイ            |
+|  4|https://blog.kaspersky.co.jp/               |Kaspersky           |カスペルスキー          |
+|  5|https://www.eset.com/jp/blog/               |ESET                |イーセット              |
+|  6|https://www.cybereason.co.jp/blog/          |Cybereason          |サイバーリーズン        |
+|  7|https://www.crowdstrike.jp/resources/       |CrowdStrike         |クラウドストライク      |
+|  8|https://www.sophos.com/ja-jp/labs.aspx      |Sophos              |ソフォス                |
+|  9|https://unit42.paloaltonetworks.jp/         |Palo Alto Networks  |パロアルトネットワークス|
+| 10|https://www.carbonblack.com/blog/           |CarbonBlack(VMware) |カーボンブラック       |
+| 11|https://www.tripwire.com/state-of-security/ |Tripwire            |トリップワイヤー       |
+
 
