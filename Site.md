@@ -1,5 +1,6 @@
 有用WEBサイト
 
+|No | Name               | URL                               |目的                                         |用途|
 |--:|:--                 |:--                                |:--                                           |:--|
 |  1| Cyber Chef         | https://gchq.github.io/CyberChef/ |サイバーアーミーナイフ                        ||
 |  2| Hash Tool Kit      | https://hashtoolkit.com/          |ハッシュ値から平文を得る                      ||
