@@ -18,3 +18,13 @@ Last Edit 2022/04/12(TUE) JST(+9) 12:00
 | 14|Eclipse| https://www.eclipse.org/ | 2022-03 | 2022-03-16 |
 | 15|PyCharm| https://www.jetbrains.com/ja-jp/pycharm/ | 2021.3.3 | 2022-03-17 |
 | 16|VisuaslStudiCode| https://code.visualstudio.com/ | 1.66 | 2022-03-31 |
+| 17|WireShark| https://wireshark.com/ | 3.6.3 | 2022-03-23 |
+| 18|NMap (Npcap)| https:/nmap.org/ | 7.92 1.60 | 2021-08-07 2021-12-06 |
+| 19|ApateDNS| https://www.fireeye.jp/current-threats/freeware/apatedns.html | 1.0 | 2011-09-29 |
+| 20|GIMP| https://www.gimp.org/ | 2.10.30 | 2021-12-21 |
+| 21|InkScape| https://inkscape.org/ | 1.1.2 | 2022/02/05 |
+| 22|IDA| https://hexrays.com/ida-free/ | 7.7 | 2021-12-24 |
+| 23|Ghidra| https://ghidra-sre.org/ | 10.1.2 | 2022-01-25 |
+| 24|Angr| https://angr.io/ https://pypi.org/project/angr/ | 9.1.12332 | 2022-03-16 |
+| 25|WinDbg| https://developer.microsoft.com/ja-jp/windows/downloads/windows-sdk/ | Windows11SDK(10.0.22000) | 2021-10-04 |
+| 26|dnSpy| https://github.com/dnSpy/dnSpy | 6.1.8 | 2020-12-08 |
