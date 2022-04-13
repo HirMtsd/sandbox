@@ -1,4 +1,4 @@
-Last Edit 2022/04/12(TUE) JST(+9) 12:00
+Last Edit 2022/04/13(WED) JST(+9) 16:00
 
 |No|Name|URL|Latest Version|Release Date|
 |--:|:--|:--|:--|:--|
@@ -38,3 +38,18 @@ Last Edit 2022/04/12(TUE) JST(+9) 12:00
 | 34|Splunk| https://www.splunk.com/ | 8.2.5 | 2022-02-16 |
 | 35|procDOT| https://www.procdot.com/ | 1.22 | 2018-08-28 |
 | 36|FTKImager| https://www.exterro.com/ | 4.7.1| 2022-01-21 |
+| 37|Volatility| https://www.volatilityfoundation.org/ | 2.6 3v1.0.0| 2016-12- 2020-02- |
+| 38|PE-sieve| https://hshrzd.wordpress.com/pe-sieve/ https://github.com/hasherezade/pe-sieve/releases | 0.3.4 | 2022-02-11 |
+| 39|WinPmem| https://winpmem.velocidex.com/ | 4.0 RC2 | 2020-10-12 |
+| 40|OSFMount| https://www.osforensics.com/tools/mount-disk-images.html | 3.1.1000 | 2021-03-05 |
+| 41|Ext2Fsd| https://sourceforge.net/projects/ext2fsd/files/ | 0.69 | 2016-07-15 |
+| 42|CDIR| https://www.cyberdefense.jp/products/cdir.html | 1.3.5 | 2020-10-05 |
+| 43|WinPrefetchView| https://www.nirsoft.net/utils/win_prefetch_view.html | 1.37 | 2021-10-27 |
+| 44|Windows Registry Recovery| https://www.mitec.cz/wrr.html | 3.1.0 | 2021-02-16 |
+| 45|GPG4win| https://www.gpg4win.org/ | 4.0.0 | 2021-12-21 |
+| 46|GnuPG| https://gnupg.org/ | 2.3.4 | 2021-12-20 |
+| 47|CyberChef| https://gchq.github.io/CyberChef/ | 9.37.0 | 2022-03-29 |
+| 48|PDF Stream Dumper| http://sandsprite.com/tools.php | 0.9.624 | 2010-07-21 |
+| 49|EXE Explorer| https://www.mitec.cz/exe.html | 3.5.1 | 2022-01-17 |
+| 50|OLETOOLS| https://github.com/decalage2/oletools https://pypi.org/project/oletools/ | 0.60 | 2021-06-02 |
+
