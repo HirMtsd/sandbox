@@ -52,4 +52,10 @@ Last Edit 2022/04/13(WED) JST(+9) 16:00
 | 48|PDF Stream Dumper| http://sandsprite.com/tools.php | 0.9.624 | 2010-07-21 |
 | 49|EXE Explorer| https://www.mitec.cz/exe.html | 3.5.1 | 2022-01-17 |
 | 50|OLETOOLS| https://github.com/decalage2/oletools https://pypi.org/project/oletools/ | 0.60 | 2021-06-02 |
-
+| 51|LibraOffice| https://www.libreoffice.org/ | 7.3.2 | 2022-03-31 |
+| 52|Metasploit| https://metasploit.com/ | 6.1.38+20220413153151 | 2022-04-13 |
+| 53|OWASP ZAP| https://owasp.org/www-project-zap/ https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
+| 54|Burp Suite| https://portswigger.net/burp/ | 2022.2.4 | 2022-03-17 |
+| 55|Nikto| https://cirt.net/Nikto2/ https://github.com/sullo/nikto/ | - | - |
+| 56|Wapiti| https://wapiti.sourceforge.io/ https://github.com/wapiti-scanner/wapiti/releases | 3.1.1 | 2022-02-23 |
+| 57|SQLMap| https://sqlmap.org/ | 1.6.4 | 2022-04-05 |
