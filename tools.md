@@ -24,7 +24,7 @@ Last Edit 2022/04/18(MON) JST(+9) 12:00
 | 20|BIND| https://www.isc.org/ | 9.16.27 | 2022-03 |
 | 21|GIMP| https://www.gimp.org/ | 2.10.30 | 2021-12-21 |
 | 22|InkScape| https://inkscape.org/ | 1.1.2 | 2022-02-05 |
-| 23|IDA| https://hexrays.com/ida-free/ | 7.7 | 2021-12-24 |
+| 23|IDA| https://hex-rays.com/ida-free/ | 7.7 | 2021-12-24 |
 | 24|Ghidra| https://ghidra-sre.org/ | 10.1.2 | 2022-01-25 |
 | 25|Angr| https://angr.io/ https://pypi.org/project/angr/ | 9.1.12332 | 2022-03-16 |
 | 26|WinDbg| https://developer.microsoft.com/ja-jp/windows/downloads/windows-sdk/ | Windows11SDK(10.0.22000) | 2021-10-04 |
