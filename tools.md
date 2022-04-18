@@ -48,7 +48,7 @@ Last Edit 2022/04/18(MON) JST(+9) 12:00
 | 44|Windows Registry Recovery| https://www.mitec.cz/wrr.html | 3.1.0 | 2021-02-16 |
 | 45|GPG4win| https://www.gpg4win.org/ | 4.0.0 | 2021-12-21 |
 | 46|GnuPG| https://gnupg.org/ | 2.3.4 | 2021-12-20 |
-| 47|CyberChef| https://gchq.github.io/CyberChef/ | 9.37.0 | 2022-03-29 |
+| 47|CyberChef| https://gchq.github.io/CyberChef/   https://github.com/gchq/CyberChef/ | 9.37.3 | 2022-04-14 |
 | 48|PDF Stream Dumper| http://sandsprite.com/tools.php | 0.9.624 | 2010-07-21 |
 | 49|EXE Explorer| https://www.mitec.cz/exe.html | 3.5.1 | 2022-01-17 |
 | 50|ExeinfoPE| http://exeinfo.booomhost.com/   https://github.com/ExeinfoASL/ASL/ | 0.0.6.7 | 2021-10-12 |
