@@ -52,7 +52,7 @@ Last Edit 2022/04/18(MON) JST(+9) 12:00
 | 48|PDF Stream Dumper| http://sandsprite.com/tools.php | 0.9.624 | 2010-07-21 |
 | 49|EXE Explorer| https://www.mitec.cz/exe.html | 3.5.1 | 2022-01-17 |
 | 50|ExeinfoPE| http://exeinfo.booomhost.com/   https://github.com/ExeinfoASL/ASL/ | 0.0.6.7 | 2021-10-12 |
-| 51|pestudio| https://www.winitor.com/ | 9.32 | 2022/04/09 |
+| 51|pestudio| https://www.winitor.com/ | 9.32 | 2022-04-09 |
 | 52|PE-sieve| https://hshrzd.wordpress.com/pe-sieve/   https://github.com/hasherezade/pe-sieve/releases | 0.3.4 | 2022-02-11 |
 | 53|PEview| http://wjradburn.com/software/ | 0.9.9 | 2011/05/09 |
 | 54|OLETOOLS| https://github.com/decalage2/oletools   https://pypi.org/project/oletools/ | 0.60 | 2021-06-02 |
