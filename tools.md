@@ -30,7 +30,7 @@ Last Edit 2022/04/18(MON) JST(+9) 12:00
 | 26|WinDbg| https://developer.microsoft.com/ja-jp/windows/downloads/windows-sdk/ | Windows11SDK(10.0.22000) | 2021-10-04 |
 | 27|dnSpy| https://github.com/dnSpy/dnSpy | 6.1.8 | 2020-12-08 |
 | 28|SQLDeveloper| https://www.oracle.com/jp/tools/downloads/sqldev-downloads.html | 21.2.1.204.1703 | 2021-08-11 |
-| 29|DBeaver| https://dbeaver.io/ | 22.0.2 | 2022-04-04 |
+| 29|DBeaver| https://dbeaver.io/   https://github.com/dbeaver/dbeaver/releases | 22.0.3 | 2022-04-17 |
 | 30|SQLite| https://www.sqlite.org/ | 3.38.2 | 2022-03-26 |
 | 31|MySQL| https://www.mysql.com/ | 8.0.28 | 2022-01-18 |
 | 32|PostgreSQL| https://www.postgresql.org/ | 14.2 | 2022-02-10 |
