@@ -3,11 +3,11 @@ Last Edit 2022/04/18(MON) JST(+9) 12:00
 |No|Name|URL|Latest Version|Release Date|
 |--:|:--|:--|:--|:--|
 |  1|7zip| https://7-zip.org/ | 21.07 | 2021-12-26 |
-|  2|サクラエディタ| https://sakura-editor.github.io/ https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 |
+|  2|SakuraEditor| https://sakura-editor.github.io/ https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 |
 |  3|GitForWindows| https://gitforwindows.org/ | 2.35.3 | 2022-04-15 |
-|  4|TeraTerm | https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 |
-|  5|PuTTY | https://www.putty.org/  https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.76 | 2021-07-17 |
-|  6|WinSCP | https://winscp.net/ | 5.19.6 | 2022-02-22 |
+|  4|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 |
+|  5|PuTTY| https://www.putty.org/  https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.76 | 2021-07-17 |
+|  6|WinSCP| https://winscp.net/ | 5.19.6 | 2022-02-22 |
 |  7|WinMerge| https://winmerge.org/ | 2.16.18 | 2022-01-27 |
 |  8|GrepWin| https://tools.stefankueng.com/grepWin.html  https://github.com/stefankueng/grepWin/releases | 2.0.10 | 2022-02-19 |
 |  9|Windows Sysinternals| https://docs.microsoft.com/en-us/sysinternals/  https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2022-02-16 |
