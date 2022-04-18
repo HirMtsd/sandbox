@@ -13,7 +13,7 @@ Last Edit 2022/04/18(MON) JST(+9) 12:00
 |  9|Windows Sysinternals| https://docs.microsoft.com/en-us/sysinternals/  https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2022-02-16 |
 | 10|Python| https://www.python.org/ | 3.9.12 3.10.4 | 2022-03-24 |
 | 11|Java| https://openjdk.java.net/  https://www.oracle.com/java/technologies/downloads/ | 17.0.2 18 | 2022-01-18 2022-03-22 |
-| 12|Ryby| https://www.ruby-lang.org/  https://rubyinstaller.org/ |3.1.1 | 2022-02-18 |
+| 12|Ruby| https://www.ruby-lang.org/  https://rubyinstaller.org/ |3.1.1 | 2022-02-18 |
 | 13|Perl| https://strawberryperl.com/ | 5.32.1.1 | 2021-01-24|
 | 14|Eclipse| https://www.eclipse.org/ | 2022-03 | 2022-03-16 |
 | 15|PyCharm| https://www.jetbrains.com/ja-jp/pycharm/ | 2021.3.3 | 2022-03-17 |
