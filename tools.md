@@ -34,7 +34,7 @@ Last Edit 2022/04/18(MON) JST(+9) 12:00
 | 30|SQLite| https://www.sqlite.org/ | 3.38.2 | 2022-03-26 |
 | 31|MySQL| https://www.mysql.com/ | 8.0.28 | 2022-01-18 |
 | 32|PostgreSQL| https://www.postgresql.org/ | 14.2 | 2022-02-10 |
-| 33|Neo4j| https://neo4j.com/ | 1.4.13 | 2022-03-24 |
+| 33|Neo4j| https://neo4j.com/ | 1.4.15 | 2022-04-12 |
 | 34|LogParser| https://www.microsoft.com/ja-jp/download/details.aspx?id=24659 | 2.2 | 2021-02-03 |
 | 35|Splunk| https://www.splunk.com/ | 8.2.5 | 2022-02-16 |
 | 36|procDOT| https://www.procdot.com/ | 1.22 | 2018-08-28 |
