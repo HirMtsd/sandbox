@@ -6,7 +6,7 @@ Last Edit 2022/04/26(TUE) JST(+9) 16:00
 |  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 99.0.1 | 2022-04-12 |
 |  3|7zip| https://7-zip.org/ | 21.07 | 2021-12-26 |
 |  4|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 |
-|  5|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.35.3 | 2022-04-15 |
+|  5|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.36.0 | 2022-04-20 |
 |  6|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 |
 |  7|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.76 | 2021-07-17 |
 |  8|WinSCP| https://winscp.net/ | 5.19.6 | 2022-02-22 |
