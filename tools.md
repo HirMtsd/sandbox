@@ -28,7 +28,7 @@ Last Edit 2022/04/26(TUE) JST(+9) 16:00
 | 24|InkScape| https://inkscape.org/ | 1.1.2 | 2022-02-05 |
 | 25|IDA| https://hex-rays.com/ida-free/ | 7.7 | 2021-12-24 |
 | 26|Ghidra| https://ghidra-sre.org/   https://github.com/NationalSecurityAgency/ghidra/releases | 10.1.3 | 2022-04-21 |
-| 27|Angr| https://angr.io/   https://pypi.org/project/angr/ | 9.2.1 | 2022-04-22 |
+| 27|Angr| https://angr.io/   https://pypi.org/project/angr/   https://github.com/angr | 9.2.1 | 2022-04-22 |
 | 28|WinDbg| https://developer.microsoft.com/ja-jp/windows/downloads/windows-sdk/ | Windows11SDK(10.0.22000) | 2021-10-04 |
 | 29|dnSpy| https://github.com/dnSpy/dnSpy | 6.1.8 | 2020-12-08 |
 | 30|SQLDeveloper| https://www.oracle.com/jp/tools/downloads/sqldev-downloads.html | 21.2.1.204.1703 | 2021-08-11 |
