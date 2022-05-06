@@ -1,4 +1,4 @@
-Last Edit 2022/04/26(TUE) JST(+9) 16:00
+Last Edit 2022/05/06(FRI) 1:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|
 |--:|:--|:--|:--|:--|
@@ -58,10 +58,10 @@ Last Edit 2022/04/26(TUE) JST(+9) 16:00
 | 54|PE-sieve| https://hshrzd.wordpress.com/pe-sieve/   https://github.com/hasherezade/pe-sieve/releases | 0.3.4 | 2022-02-11 |
 | 55|PEview| http://wjradburn.com/software/ | 0.9.9 | 2011-05-09 |
 | 56|OLETOOLS| https://github.com/decalage2/oletools   https://pypi.org/project/oletools/ | 0.60 | 2021-06-02 |
-| 57|LibraOffice| https://www.libreoffice.org/ | 7.3.2 | 2022-03-31 |
-| 58|Metasploit| https://metasploit.com/ | 6.1.40+20220425234746 | 2022-04-25 |
+| 57|LibraOffice| https://www.libreoffice.org/ | 7.3.3 | 2022-04-22 |
+| 58|Metasploit| https://metasploit.com/ | 6.1.41+20220505153120 | 2022-05-05 |
 | 59|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
-| 60|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload | 2022.2.5 | 2022-04-20 |
+| 60|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload | 2022.3.6 | 2022-04-29 |
 | 61|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
 | 62|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases | 3.1.1 | 2022-02-23 |
-| 63|SQLMap| https://sqlmap.org/ | 1.6.4 | 2022-04-05 |
+| 63|SQLMap| https://sqlmap.org/ | 1.6.5 | 2022-05-04 |
