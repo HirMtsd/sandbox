@@ -23,7 +23,7 @@
 | 19| SHODAN             | https://www.shodan.io/            |Internet Search Engine                        || 
 | 20| CENSYS             | https://censys.io/                |Internet Search Engine                        ||
 | 21| Aguse              | https://gw.aguse.jp               |踏み台サーバ                                  |マルウェア調査で使用|
-| 22| URL Hause          | https://urlhaus.abuse.ch/         |マルウェア配布用URLの情報共有サイト           |マルウェア調査で使用|
-| 23| FedeoTracker       | https://feodotracker.abuse.ch/    |C2サーバの情報共有サイト                      |マルウェア調査で使用|
-| 24| WayBack Machine    | https://web.archive.org/          |Internet archive                              ||
+| 22| URL Haus           | https://urlhaus.abuse.ch/         |マルウェア配布用URLの情報共有サイト           |マルウェア調査で使用|
+| 23| FeodoTracker       | https://feodotracker.abuse.ch/    |C2サーバの情報共有サイト                      |マルウェア調査で使用|
+| 24| Wayback Machine    | https://web.archive.org/          |Internet archive                              ||
  
