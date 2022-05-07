@@ -3,7 +3,7 @@
 |No | Name               | URL                               |目的                                         |用途|
 |--:|:--                 |:--                                |:--                                           |:--|
 |  1| Cyber Chef         | https://gchq.github.io/CyberChef/ |サイバーアーミーナイフ                        ||
-|  2| Hash Tool Kit      | https://hashtoolkit.com/          |ハッシュ値から平文を得る                      ||
+|  2| Hash Toolkit       | https://hashtoolkit.com/          |ハッシュ値から平文を得る                      ||
 |  3| IP Info            | https://ipinfo.io/                |サーバの情報を返す                            |Network問題で使用|
 |  4| JPNIC              | https://www.nic.ad.jp/ja/         |IP Infoのうち、JPドメインに関するものの詳細   |解析で使用|
 |  5| CMAN               | https://www.cman.jp/network/      |Whoisの横断検索時に便利                       |解析で使用|
@@ -19,7 +19,7 @@
 | 15| Any.run            | https://app.any.run/              |マルウェア解析サービス                        ||
 | 16| Hybrid Analysis    | https://www.hybrid-analysis.com/  |マルウェア解析サービス                        ||
 | 17| Joe Sandbox Cloud  | https://www.joesandbox.com/       |マルウェア解析サービス                        ||
-| 18| RISKIQ             | https://cpmmunity.riskiq.com/     |DNSの過去情報(Passive DNS)                    ||
+| 18| RiskIQ             | https://community.riskiq.com/     |DNSの過去情報(Passive DNS)                    ||
 | 19| SHODAN             | https://www.shodan.io/            |Internet Search Engine                        || 
 | 20| CENSYS             | https://censys.io/                |Internet Search Engine                        ||
 | 21| Aguse              | https://gw.aguse.jp               |踏み台サーバ                                  |マルウェア調査で使用|
