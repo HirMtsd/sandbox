@@ -22,8 +22,8 @@
 | 18| RiskIQ             | https://community.riskiq.com/     |DNSの過去情報(Passive DNS)                    ||
 | 19| SHODAN             | https://www.shodan.io/            |Internet Search Engine                        || 
 | 20| CENSYS             | https://censys.io/                |Internet Search Engine                        ||
-| 21| Aguse              | https://gw.aguse.jp               |踏み台サーバ                                  |マルウェア調査で使用|
-| 22| URL Haus           | https://urlhaus.abuse.ch/         |マルウェア配布用URLの情報共有サイト           |マルウェア調査で使用|
-| 23| FeodoTracker       | https://feodotracker.abuse.ch/    |C2サーバの情報共有サイト                      |マルウェア調査で使用|
+| 21| Aguse              | https://gw.aguse.jp/              |踏み台サーバ                                  |マルウェア調査で使用|
+| 22| URL haus           | https://urlhaus.abuse.ch/         |マルウェア配布用URLの情報共有サイト           |マルウェア調査で使用|
+| 23| Feodo Tracker      | https://feodotracker.abuse.ch/    |C2サーバの情報共有サイト                      |マルウェア調査で使用|
 | 24| Wayback Machine    | https://web.archive.org/          |Internet archive                              ||
  
