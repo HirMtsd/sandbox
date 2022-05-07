@@ -10,7 +10,7 @@ Last Edit 2022/05/06(FRI) 1:00 JST(+9)
 |  6|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 |
 |  7|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.76 | 2021-07-17 |
 |  8|WinSCP| https://winscp.net/ | 5.19.6 | 2022-02-22 |
-|  9|WinMerge| https://winmerge.org/ | 2.16.18 | 2022-01-27 |
+|  9|WinMerge| https://winmerge.org/ | 2.16.20 | 2022-04-27 |
 | 10|GrepWin| https://tools.stefankueng.com/grepWin.html   https://github.com/stefankueng/grepWin/releases | 2.0.10 | 2022-02-19 |
 | 11|Windows Sysinternals| https://docs.microsoft.com/en-us/sysinternals/   https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2022-02-16 |
 | 12|Python| https://www.python.org/ | 3.9.12 3.10.4 | 2022-03-24 |
