@@ -62,9 +62,10 @@ Last Edit 2022/05/10(TUE) 16:00 JST(+9)
 | 57|OLETOOLS| https://github.com/decalage2/oletools   https://pypi.org/project/oletools/ | 0.60 | 2021-06-02 |
 | 58|LibraOffice| https://www.libreoffice.org/ | 7.3.3 | 2022-05-05 |
 | 59|PDF-XChange Editor| https://www.tracker-software.com/product/downloads | 9.3.361.0 | 2022-04-13 |
-| 60|Metasploit| https://metasploit.com/ | 6.1.41+20220505153120 | 2022-05-05 |
-| 61|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
-| 62|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload | 2022.3.6 | 2022-04-29 |
-| 63|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
-| 64|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases | 3.1.1 | 2022-02-23 |
-| 65|SQLMap| https://sqlmap.org/ | 1.6.5 | 2022-05-04 |
+| 60|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ |22.1.20117.0| 2022-04_15 |
+| 61|Metasploit| https://metasploit.com/ | 6.1.41+20220505153120 | 2022-05-05 |
+| 62|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
+| 63|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload | 2022.3.6 | 2022-04-29 |
+| 64|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
+| 65|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases | 3.1.1 | 2022-02-23 |
+| 66|SQLMap| https://sqlmap.org/ | 1.6.5 | 2022-05-04 |
