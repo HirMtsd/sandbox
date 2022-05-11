@@ -21,7 +21,7 @@ Last Edit 2022/05/10(TUE) 16:00 JST(+9)
 | 16|Perl| https://strawberryperl.com/ | 5.32.1.1 | 2021-01-24|
 | 17|Eclipse| https://www.eclipse.org/ | 2022-03 | 2022-03-16 |
 | 18|PyCharm| https://www.jetbrains.com/ja-jp/pycharm/ | 2022.1 | 2022-04-13 |
-| 19|VisuaslStudioCode| https://code.visualstudio.com/ | 1.66 | 2022-03-31 |
+| 19|VisuaslStudioCode| https://code.visualstudio.com/   https://github.com/microsoft/vscode/releases | 1.67.1 | 2022-05-06 |
 | 20|WireShark| https://wireshark.com/ | 3.6.3 | 2022-03-23 |
 | 21|NMap (Npcap)| https://nmap.org/ | 7.92 1.60 | 2021-08-07 2021-12-06 |
 | 22|WinDump (Win10Pcap)| https://www.wincap.org/ https://www.win10pcap.org/ja/ | 3.9.5 10.2 | 2006-12-06 2015-10-08 |
@@ -64,10 +64,11 @@ Last Edit 2022/05/10(TUE) 16:00 JST(+9)
 | 59|OLETOOLS| https://github.com/decalage2/oletools   https://pypi.org/project/oletools/ | 0.60 | 2021-06-02 |
 | 60|LibraOffice| https://www.libreoffice.org/ | 7.3.3 | 2022-05-05 |
 | 61|PDF-XChange Editor| https://www.tracker-software.com/product/downloads | 9.3.361.0 | 2022-04-13 |
-| 62|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ |22.1.20117.0| 2022-04_15 |
-| 63|Metasploit| https://metasploit.com/ | 6.1.41+20220505153120 | 2022-05-05 |
-| 64|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
-| 65|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload | 2022.3.6 | 2022-04-29 |
-| 66|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
-| 67|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases | 3.1.1 | 2022-02-23 |
-| 68|SQLMap| https://sqlmap.org/ | 1.6.5 | 2022-05-04 |
+| 62|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ | 22.1.20117.0 | 2022-04_15 |
+| 63|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 2.17.1.1 | 2022-02-01 |
+| 64|Metasploit| https://metasploit.com/ | 6.1.41+20220505153120 | 2022-05-05 |
+| 65|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
+| 66|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload | 2022.3.6 | 2022-04-29 |
+| 67|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
+| 68|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases | 3.1.1 | 2022-02-23 |
+| 69|SQLMap| https://sqlmap.org/ | 1.6.5 | 2022-05-04 |
