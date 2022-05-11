@@ -7,3 +7,5 @@
 - [Linuxディストリビューション](./linux.md)
 - [Windowsツール](./tools.md)
 - [Windowsツール2](./tools2.md)
+- [サーバツール](./tool3.md)
+
