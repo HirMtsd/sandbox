@@ -61,7 +61,7 @@ Last Edit 2022/05/12(THU) 11:00 JST(+9)
 | 56|pestudio| https://www.winitor.com/ | 9.32 | 2022-04-09 |
 | 57|PE-sieve| https://hshrzd.wordpress.com/pe-sieve/   https://github.com/hasherezade/pe-sieve/releases | 0.3.4 | 2022-02-11 |
 | 58|PEview| http://wjradburn.com/software/ | 0.9.9 | 2011-05-09 |
-| 59|OLETOOLS| https://github.com/decalage2/oletools   https://pypi.org/project/oletools/ | 0.60 | 2021-06-02 |
+| 59|OLETOOLS| https://github.com/decalage2/oletools   https://pypi.org/project/oletools/ | 0.60.1 | 2022-05-09 |
 | 60|LibraOffice| https://www.libreoffice.org/ | 7.3.3 | 2022-05-05 |
 | 61|PDF-XChange Editor| https://www.tracker-software.com/product/downloads | 9.3.361.0 | 2022-04-13 |
 | 62|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ | 22.1.20117.0 | 2022-04_15 |
