@@ -3,7 +3,7 @@ Last Edit 2022/05/12(THU) 11:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|
 |--:|:--|:--|:--|:--|
-|  1|Chrome| https://www.google.com/chrome/?standalone=1&platform=win64 | 101.0.4951.64 | 2022-05-10 |
+|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 101.0.4951.64 | 2022-05-10 |
 |  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 100.0 | 2022-05-03 |
 |  3|7zip| https://7-zip.org/ | 21.07 | 2021-12-26 |
 |  4|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 |
