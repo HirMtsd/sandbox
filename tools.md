@@ -21,7 +21,7 @@ Last Edit 2022/05/12(THU) 11:00 JST(+9)
 | 16|Perl| https://strawberryperl.com/ | 5.32.1.1 | 2021-01-24|
 | 17|Eclipse| https://www.eclipse.org/ | 2022-03 | 2022-03-16 |
 | 18|PyCharm| https://www.jetbrains.com/ja-jp/pycharm/ | 2022.1 | 2022-04-13 |
-| 19|VisuaslStudioCode| https://code.visualstudio.com/   https://github.com/microsoft/vscode/releases | 1.67.1 | 2022-05-06 |
+| 19|VisuaslStudioCode| https://code.visualstudio.com/   https://github.com/microsoft/vscode/releases | 1.67.1 | 2022-05-11 |
 | 20|WireShark| https://wireshark.com/ | 3.6.5 | 2022-05-05 |
 | 21|NMap (Npcap)| https://nmap.org/ | 7.92 1.60 | 2021-08-07 2021-12-06 |
 | 22|WinDump (Win10Pcap)| https://www.wincap.org/ https://www.win10pcap.org/ja/ | 3.9.5 10.2 | 2006-12-06 2015-10-08 |
