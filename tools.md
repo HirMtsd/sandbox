@@ -71,5 +71,5 @@ Last Edit 2022/05/12(THU) 11:00 JST(+9)
 | 66|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
 | 67|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2022.3.6 | 2022-04-29 |
 | 68|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
-| 69|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.1 | 2022-02-23 |
+| 69|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.2 | 2022-05-14 |
 | 70|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.6.5 | 2022-05-04 |
