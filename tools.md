@@ -3,9 +3,9 @@ Last Edit 2022/05/18(WED) 15:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|
 |--:|:--|:--|:--|:--|
-|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 101.0.4951.64 | 2022-05-10 |
-|  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 100.0 | 2022-05-03 |
-|  3|Opera| https://www.opera.com/ja/download#opera-browser | 86.0.4363.59 | 2022-05-10 |
+|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 101.0.4951.67 | 2022-05-12 |
+|  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 100.0.1 | 2022-05-16 |
+|  3|Opera| https://www.opera.com/ja/download#opera-browser | 87.0.4390.25 | 2022-05-17 |
 |  4|7zip| https://7-zip.org/ | 21.07 | 2021-12-26 |
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 |
 |  6|Joplin | https://joplinapp.org/ | 2.7.15 | 2022-03-17 |
@@ -33,7 +33,7 @@ Last Edit 2022/05/18(WED) 15:00 JST(+9)
 | 28|Graphviz| https://graphviz.org/ | 3.0.0 | 2022-02-26 |
 | 29|IDA| https://hex-rays.com/ida-free/ | 7.7 | 2021-12-24 |
 | 30|Ghidra| https://ghidra-sre.org/   https://github.com/NationalSecurityAgency/ghidra/releases | 10.1.3 | 2022-04-21 |
-| 31|Angr| https://angr.io/   https://github.com/angr/   https://pypi.org/project/angr/ | 9.2.3 | 2022-05-11 |
+| 31|Angr| https://angr.io/   https://github.com/angr/   https://pypi.org/project/angr/ | 9.2.4 | 2022-05-18 |
 | 32|WinDbg| https://developer.microsoft.com/ja-jp/windows/downloads/windows-sdk/ | Windows11SDK(10.0.22000) | 2021-10-04 |
 | 33|dnSpy| https://github.com/dnSpy/dnSpy | 6.1.8 | 2020-12-08 |
 | 34|SQLDeveloper| https://www.oracle.com/jp/tools/downloads/sqldev-downloads.html | 21.2.1.204.1703 | 2021-08-11 |
