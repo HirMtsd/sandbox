@@ -63,13 +63,14 @@ Last Edit 2022/05/12(THU) 11:00 JST(+9)
 | 58|PE-sieve| https://hshrzd.wordpress.com/pe-sieve/   https://github.com/hasherezade/pe-sieve/releases/ | 0.3.4 | 2022-02-11 |
 | 59|PEview| http://wjradburn.com/software/ | 0.9.9 | 2011-05-09 |
 | 60|OLETOOLS| https://github.com/decalage2/oletools/   https://pypi.org/project/oletools/ | 0.60.1 | 2022-05-09 |
-| 61|LibraOffice| https://www.libreoffice.org/ | 7.3.3 | 2022-05-05 |
-| 62|PDF-XChange Editor| https://www.tracker-software.com/product/downloads/ | 9.3.361.0 | 2022-04-13 |
-| 63|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ | 22.1.20117.0 | 2022-04_15 |
-| 64|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 2.17.1.1 | 2022-02-01 |
-| 65|Metasploit| https://metasploit.com/ | 6.1.42+20220511153217 | 2022-05-11 |
-| 66|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
-| 67|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2022.3.6 | 2022-04-29 |
-| 68|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
-| 69|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.2 | 2022-05-14 |
-| 70|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.6.5 | 2022-05-04 |
+| 61|ExifTool| https://exiftool.org/   https://github.com/exiftool/exiftool/ | 12.41 | 2022-04-07 |
+| 62|LibraOffice| https://www.libreoffice.org/ | 7.3.3 | 2022-05-05 |
+| 63|PDF-XChange Editor| https://www.tracker-software.com/product/downloads/ | 9.3.361.0 | 2022-04-13 |
+| 64|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ | 22.1.20117.0 | 2022-04_15 |
+| 65|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 2.17.1.1 | 2022-02-01 |
+| 66|Metasploit| https://metasploit.com/ | 6.1.42+20220511153217 | 2022-05-11 |
+| 67|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
+| 68|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2022.3.6 | 2022-04-29 |
+| 69|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
+| 70|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.2 | 2022-05-14 |
+| 71|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.6.5 | 2022-05-04 |
