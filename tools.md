@@ -5,10 +5,10 @@ Last Edit 2022/05/18(WED) 15:00 JST(+9)
 |--:|:--|:--|:--|:--|
 |  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 101.0.4951.67 | 2022-05-12 |
 |  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 100.0.1 | 2022-05-16 |
-|  3|Opera| https://www.opera.com/ja/download#opera-browser | 87.0.4390.25 | 2022-05-17 |
+|  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 87.0.4390.25 | 2022-05-17 |
 |  4|7zip| https://7-zip.org/ | 21.07 | 2021-12-26 |
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 |
-|  6|Joplin | https://joplinapp.org/ | 2.7.15 | 2022-03-17 |
+|  6|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.7.15 | 2022-03-17 |
 |  7|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.36.1 | 2022-05-09 |
 |  8|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 |
 |  9|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.76 | 2021-07-17 |
