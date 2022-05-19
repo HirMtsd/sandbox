@@ -75,4 +75,5 @@ Last Edit 2022/05/19(THU) 15:00 JST(+9)
 | 70|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.2 | 2022-05-14 |
 | 71|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.6.5 | 2022-05-04 |
 | xx|Microsoft Visual C++再頒布可能パッケージ| https://docs.microsoft.com/ja-jp/cpp/windows/latest-supported-vc-redist | 2015-2022 | |
+| xx|Microsoft .NET Framework| https://dotnet.microsoft.com/ja-jp/download/dotnet-framework | 4.8 | |
 
