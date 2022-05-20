@@ -32,6 +32,7 @@
 | 12|https://blog.nflabs.jp/                     |NFLabs                    |エヌ・エフ・ラボラトリーズ|
 | 13|https://insight-jp.nttsecurity.com/         |NTT Security              |エヌ・ティ・ティセキュリティ|
 | 14|https://www.mbsd.jp/research/               |MBSD                      |三井物産セキュアディレクション|
+| 15|https://eset-info.canon-its.jp/malware_info/|||
 | 15|https://www.crowdstrike.jp/resources/       |CrowdStrike               |クラウドストライク      |
 | 16|https://www.sophos.com/ja-jp/labs.aspx      |Sophos                    |ソフォス                |
 | 17|https://www.carbonblack.com/blog/           |CarbonBlack(VMware)       |カーボンブラック       |
