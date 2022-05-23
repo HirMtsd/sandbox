@@ -13,30 +13,30 @@
 |  8|https://www.jnsa.org/                 |特定非営利活動法人 日本ネットワークセキュリティ協会(JNSA)|
 
 ## 情報セキュリティ関係企業
-|No|URL|名称|カナ名称
+|No|URL|名称|カナ名称|
 |--:|:--|:--|:--|
 |  1|https://blog.trendmicro.co.jp/              |Trend Micro               |トレンドマイクロ        |
-|  2|https://blog.kaspersky.co.jp/               |Kaspersky                 |カスペルスキー          |
+|  2|https://unit42.paloaltonetworks.jp/         |Palo Alto Networks(UNIT42)|パロアルトネットワークス|
 |  3|https://www.cybereason.co.jp/blog/          |Cybereason                |サイバーリーズン        |
-|  4|https://unit42.paloaltonetworks.jp/         |Palo Alto Networks(UNIT42)|パロアルトネットワークス|
-|  5|https://www.lac.co.jp/lacwatch/             |LAC                       |ラック                  |
-|   |https://devblog.lac.co.jp/                  |                          ||
-|  6|https://www.fireeye.jp/blog/                |FireEye                   |ファイアアイ            |
+|  4|https://blog.kaspersky.co.jp/               |Kaspersky                 |カスペルスキー          |
+|  5|https://www.fireeye.jp/blog/                |FireEye                   |ファイアアイ            |
 |   |https://www.mandiant.jp/resources           |Mandiant                  |マンディエント|
-|  7|https://blogs.blackberry.com/ja/jp          |Blackberry                |ブラックベリー|
-|  8|https://www.eset.com/jp/blog/               |ESET                      |イーセット              |
-|  9|https://blog.macnica.net/                   |Macnica Networks          |マクニカネットワークス| 
+|  6|https://www.mbsd.jp/research/               |MBSD                      |三井物産セキュアディレクション|
+|  7|https://blogs.blackberry.com/ja/jp          |BlackBerry                |ブラックベリー|
+|  8|https://www.lac.co.jp/lacwatch/             |LAC                       |ラック                  |
+|   |https://devblog.lac.co.jp/                  |                          ||
+|  9|https://www.eset.com/jp/blog/               |ESET                      |イーセット              |
+| 10|https://blog.macnica.net/                   |Macnica Networks          |マクニカネットワークス| 
 |   |https://mnc.macnica.net/                    |                          ||
-| 10|https://jpn.nec.com/cybersecurity/blog/     |NEC                       |日本電気|
-| 11|https://engineers.ffri.jp/                  |FFRI                      |エフエフアールアイ| 
-| 12|https://blog.nflabs.jp/                     |NFLabs                    |エヌ・エフ・ラボラトリーズ|
-| 13|https://insight-jp.nttsecurity.com/         |NTT Security              |エヌ・ティ・ティセキュリティ|
-| 14|https://www.mbsd.jp/research/               |MBSD                      |三井物産セキュアディレクション|
-| 15|https://eset-info.canon-its.jp/malware_info/|||
-| 15|https://www.crowdstrike.jp/resources/       |CrowdStrike               |クラウドストライク      |
+| 11|https://insight-jp.nttsecurity.com/         |NTT Security              |エヌ・ティ・ティセキュリティ|
+| 12|https://jpn.nec.com/cybersecurity/blog/     |NEC                       |日本電気|
+| 13|https://blog.nflabs.jp/                     |NFLabs                    |エヌ・エフ・ラボラトリーズ|
+| 14|https://engineers.ffri.jp/                  |FFRI                      |エフエフアールアイ| 
+| 15|https://eset-info.canon-its.jp/malware_info/|Canon Marketing Japan     |キヤノンマーケティングジャパン|
 | 16|https://www.sophos.com/ja-jp/labs.aspx      |Sophos                    |ソフォス                |
-| 17|https://www.carbonblack.com/blog/           |CarbonBlack(VMware)       |カーボンブラック       |
-| 18|https://www.tripwire.com/state-of-security/ |Tripwire                  |トリップワイヤー       |
+| 17|https://www.crowdstrike.jp/resources/       |CrowdStrike               |クラウドストライク      |
+| 18|https://www.carbonblack.com/blog/           |CarbonBlack(VMware)       |カーボンブラック       |
+| 19|https://www.tripwire.com/state-of-security/ |Tripwire                  |トリップワイヤー       |
 
 ## 注意喚起情報
 |No|URL|名称|
