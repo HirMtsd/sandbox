@@ -26,4 +26,4 @@
 | 22| URL haus           | https://urlhaus.abuse.ch/         |マルウェア配布用URLの情報共有サイト           |マルウェア調査で使用|
 | 23| Feodo Tracker      | https://feodotracker.abuse.ch/    |C2サーバの情報共有サイト                      |マルウェア調査で使用|
 | 24| Wayback Machine    | https://web.archive.org/          |Internet archive                              ||
- 
+| 25| Let me google that for you| https://lmgtfy.app/        |「ググれ」の婉曲表現||
