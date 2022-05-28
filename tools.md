@@ -3,15 +3,15 @@ Last Edit 2022/05/19(THU) 15:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|
 |--:|:--|:--|:--|:--|
-|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 101.0.4951.67 | 2022-05-12 |
-|  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 100.0.1 | 2022-05-16 |
-|  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 87.0.4390.25 | 2022-05-17 |
+|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 102.0.5005.75 | 2022-05-27 |
+|  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 100.0.2 | 2022-05-20 |
+|  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 87.0.4390.36 | 2022-05-26 |
 |  4|7zip| https://7-zip.org/ | 21.07 | 2021-12-26 |
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 |
 |  6|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.7.15 | 2022-03-17 |
 |  7|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.36.1 | 2022-05-10 |
 |  8|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 |
-|  9|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.76 | 2021-07-17 |
+|  9|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.77 | 2022-05-27 |
 | 10|WinSCP| https://winscp.net/ | 5.19.6 | 2022-02-22 |
 | 11|WinMerge| https://winmerge.org/ | 2.16.20 | 2022-04-27 |
 | 12|GrepWin| https://tools.stefankueng.com/grepWin.html   https://github.com/stefankueng/grepWin/releases | 2.0.10 | 2022-02-19 |
@@ -32,12 +32,12 @@ Last Edit 2022/05/19(THU) 15:00 JST(+9)
 | 27|InkScape| https://inkscape.org/ | 1.2 | 2022-05-16 |
 | 28|Graphviz| https://graphviz.org/ | 3.0.0 | 2022-02-26 |
 | 29|IDA| https://hex-rays.com/ida-free/ | 7.7 | 2021-12-24 |
-| 30|Ghidra| https://ghidra-sre.org/   https://github.com/NationalSecurityAgency/ghidra/releases | 10.1.3 | 2022-04-21 |
-| 31|Angr| https://angr.io/   https://github.com/angr/   https://pypi.org/project/angr/ | 9.2.4 | 2022-05-18 |
+| 30|Ghidra| https://ghidra-sre.org/   https://github.com/NationalSecurityAgency/ghidra/releases | 10.1.4 | 2022-05-19 |
+| 31|Angr| https://angr.io/   https://github.com/angr/   https://pypi.org/project/angr/ | 9.2.5 | 2022-05-25 |
 | 32|WinDbg| https://developer.microsoft.com/ja-jp/windows/downloads/windows-sdk/ | Windows11SDK(10.0.22000) | 2021-10-04 |
 | 33|dnSpy| https://github.com/dnSpy/dnSpy | 6.1.8 | 2020-12-08 |
 | 34|SQLDeveloper| https://www.oracle.com/jp/tools/downloads/sqldev-downloads.html | 21.2.1.204.1703 | 2021-08-11 |
-| 35|DBeaver| https://dbeaver.io/   https://github.com/dbeaver/dbeaver/releases/ | 22.0.4 | 2022-05-02 |
+| 35|DBeaver| https://dbeaver.io/   https://github.com/dbeaver/dbeaver/releases/ | 22.0.5 | 2022-05-23 |
 | 36|SQLite| https://www.sqlite.org/ | 3.38.5 | 2022-05-06 |
 | 37|MySQL| https://www.mysql.com/ | 8.0.29 | 2022-04-26 |
 | 38|PostgreSQL| https://www.postgresql.org/ | 14.3 | 2022-05-12 |
