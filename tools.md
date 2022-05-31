@@ -3,7 +3,7 @@ Last Edit 2022/05/19(THU) 15:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|
 |--:|:--|:--|:--|:--|
-|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 102.0.5005.75 | 2022-05-27 |
+|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 102.0.5005.78 | 2022-05-28 |
 |  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 100.0.2 | 2022-05-20 |
 |  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 87.0.4390.36 | 2022-05-26 |
 |  4|7zip| https://7-zip.org/ | 21.07 | 2021-12-26 |
@@ -70,7 +70,7 @@ Last Edit 2022/05/19(THU) 15:00 JST(+9)
 | 65|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 2.18 | 2022-04-05 |
 | 66|Metasploit| https://metasploit.com/ | 6.1.42+20220511153217 | 2022-05-11 |
 | 67|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
-| 68|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2022.3.7 | 2022-05-11 |
+| 68|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2022.3.9 | 2022-05-27 |
 | 69|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
 | 70|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.2 | 2022-05-14 |
 | 71|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.6.5 | 2022-05-04 |
