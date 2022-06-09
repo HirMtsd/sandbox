@@ -3,12 +3,12 @@ Last Edit 2022/06/09(THU) 14:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|
 |--:|:--|:--|:--|:--|
-|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 102.0.5005.78 | 2022-05-28 |
-|  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 100.0.2 | 2022-05-20 |
-|  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 87.0.4390.36 | 2022-05-26 |
+|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 102.0.5005.75 | 2022-05-27 |
+|  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 101.0 | 2022-05-31 |
+|  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 88.0.4412.27 | 2022-06-08 |
 |  4|7zip| https://7-zip.org/ | 21.07 | 2021-12-26 |
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 |
-|  6|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.7.15 | 2022-03-17 |
+|  6|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.8.8 | 2022-05-17 |
 |  7|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.36.1 | 2022-05-10 |
 |  8|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 |
 |  9|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.77 | 2022-05-27 |
@@ -33,7 +33,7 @@ Last Edit 2022/06/09(THU) 14:00 JST(+9)
 | 28|Graphviz| https://graphviz.org/ | 3.0.0 | 2022-02-26 |
 | 29|IDA| https://hex-rays.com/ida-free/ | 7.7 | 2021-12-24 |
 | 30|Ghidra| https://ghidra-sre.org/   https://github.com/NationalSecurityAgency/ghidra/releases | 10.1.4 | 2022-05-19 |
-| 31|Angr| https://angr.io/   https://github.com/angr/   https://pypi.org/project/angr/ | 9.2.5 | 2022-05-25 |
+| 31|Angr| https://angr.io/   https://github.com/angr/   https://pypi.org/project/angr/ | 9.2.6 | 2022-06-01 |
 | 32|WinDbg| https://developer.microsoft.com/ja-jp/windows/downloads/windows-sdk/ | Windows11SDK(10.0.22000) | 2021-10-04 |
 | 33|dnSpy| https://github.com/dnSpy/dnSpy | 6.1.8 | 2020-12-08 |
 | 34|SQLDeveloper| https://www.oracle.com/jp/tools/downloads/sqldev-downloads.html | 21.2.1.204.1703 | 2021-08-11 |
@@ -55,7 +55,7 @@ Last Edit 2022/06/09(THU) 14:00 JST(+9)
 | 50|Windows Registry Recovery| https://www.mitec.cz/wrr.html | 3.1.0 | 2021-02-16 |
 | 51|GPG4win| https://www.gpg4win.org/ | 4.0.2 | 2022-04-26 |
 | 52|GnuPG| https://gnupg.org/ | 2.3.4 | 2021-12-20 |
-| 53|CyberChef| https://gchq.github.io/CyberChef/   https://github.com/gchq/CyberChef/ | 9.38.0 | 2022-05-31 |
+| 53|CyberChef| https://gchq.github.io/CyberChef/   https://github.com/gchq/CyberChef/ | 9.38.9 | 2022-06-09 |
 | 54|PDF Stream Dumper| http://sandsprite.com/tools.php | 0.9.624 | 2010-07-21 |
 | 55|EXE Explorer| https://www.mitec.cz/exe.html | 3.5.1 | 2022-01-17 |
 | 56|ExeinfoPE| http://exeinfo.booomhost.com/   https://github.com/ExeinfoASL/ASL/ | 0.0.6.9 | 2022-04-20 |
