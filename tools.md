@@ -1,11 +1,11 @@
 <!-- since 2022/04/12 -->
-Last Edit 2022/06/09(THU) 14:00 JST(+9)
+Last Edit 2022/06/16(THU) 15:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|
 |--:|:--|:--|:--|:--|
-|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 102.0.5005.75 | 2022-05-27 |
-|  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 101.0 | 2022-05-31 |
-|  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 88.0.4412.27 | 2022-06-08 |
+|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 102.0.5005.125 | 2022-06-15 |
+|  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 101.0.1 | 2022-06-09 |
+|  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 88.0.4412.40 | 2022-06-13 |
 |  4|7zip| https://7-zip.org/ | 21.07 | 2021-12-26 |
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 |
 |  6|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.8.8 | 2022-05-17 |
@@ -63,7 +63,7 @@ Last Edit 2022/06/09(THU) 14:00 JST(+9)
 | 58|PE-sieve| https://hshrzd.wordpress.com/pe-sieve/   https://github.com/hasherezade/pe-sieve/releases/ | 0.3.4 | 2022-02-11 |
 | 59|PEview| http://wjradburn.com/software/ | 0.9.9 | 2011-05-09 |
 | 60|OLETOOLS| https://github.com/decalage2/oletools/   https://pypi.org/project/oletools/ | 0.60.1 | 2022-05-09 |
-| 61|ExifTool| https://exiftool.org/   https://github.com/exiftool/exiftool/ | 12.41 | 2022-04-07 |
+| 61|ExifTool| https://exiftool.org/   https://github.com/exiftool/exiftool/ | 12.42 | 2022-06-01 |
 | 62|QPDF| https://qpdf.sourceforge.io/   https://github.com/qpdf/qpdf | 10.6.3 | 2022-03-12 |
 | 63|LibraOffice| https://www.libreoffice.org/ | 7.3.3 | 2022-05-05 |
 | 64|PDF-XChange Editor| https://www.tracker-software.com/product/downloads/ | 9.3.361.0 | 2022-04-13 |
