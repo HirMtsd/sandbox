@@ -10,4 +10,5 @@
 |  8| VMware Workstation Player | https://www.vmware.com/jp/products/workstation-player/workstation-player-evaluation.html | 16.2.3 | |
 |  9| Oracle VM VirtualBox | https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html | 6.1.14 | |
 |   | VirtualBox | https://www.virtualbox.org/ | 6.1.34 | 2022-04-19 |
-
+|  x| TweakPNG | http://entropymine.com/jason/tweakpng/ | 1.4.6 | 2014-09-07 |
+|  x| HxD | https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 |
