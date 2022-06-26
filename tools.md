@@ -71,7 +71,7 @@ Last Edit 2022/06/26(SUN) 13:00 JST(+9)
 | 66|OLETOOLS| https://github.com/decalage2/oletools/   https://pypi.org/project/oletools/ | 0.60.1 | 2022-05-09 |
 | 67|ExifTool| https://exiftool.org/   https://github.com/exiftool/exiftool/ | 12.42 | 2022-06-01 |
 | 68|QPDF| https://qpdf.sourceforge.io/   https://github.com/qpdf/qpdf | 10.6.3 | 2022-03-12 |
-| 69|LibraOffice| https://www.libreoffice.org/ | 7.3.3 | 2022-05-05 |
+| 69|LibraOffice| https://www.libreoffice.org/ | 7.3.4 | 2022-06-03 |
 | 70|PDF-XChange Editor| https://www.tracker-software.com/product/downloads/ | 9.3.361.0 | 2022-04-13 |
 | 71|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ | 22.1.20117.0 | 2022-04-15 |
 | 72|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 2.18 | 2022-04-05 |
