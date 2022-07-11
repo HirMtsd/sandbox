@@ -11,3 +11,4 @@
 |  9|https://github.com/stuxnet999/MemLabs
 | 10|https://unit42.paloaltonetworks.jp/wireshark-workshop-videos/
 | 11|https://www.nic.ad.jp/ja/materials/iw/ondemand/
+| 12|https://atcold.github.io/pytorch-Deep-Learning/ja/ | 深層学習 DS-GA 1008 · 2020年度春学期 · ニューヨーク大学データ・サイエンス・センター |
