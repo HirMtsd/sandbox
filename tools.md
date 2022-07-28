@@ -1,25 +1,25 @@
 <!-- since 2022/04/12 -->
-Last Edit 2022/07/08(FRI) 10:00 JST(+9)
+Last Edit 2022/07/29(FRI) 07:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|
 |--:|:--|:--|:--|:--|
 |  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 103.0.5060.114 | 2022-07-04 |
 |  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 102.0.1 | 2022-07-06 |
 |  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 88.0.4412.74 | 2022-07-05 |
-|  4|7zip| https://7-zip.org/ | 22.00 | 2022-06-15 |
+|  4|7zip| https://7-zip.org/ | 22.01 | 2022-07-15 |
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 |
 |  6| HxD | https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 |
 |  7|Fhex - A Full-Featured HexEditor| https://github.com/echo-devim/fhex | 3.0.0 | 2021-02-26 |
 |  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.8.8 | 2022-05-17 |
-|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.37.0 | 2022-06-27 |
+|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.37.1 | 2022-07-04 |
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 |
 | 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.77 | 2022-05-27 |
 | 12|WinSCP| https://winscp.net/ | 5.21 | 2022-06-15 |
-| 13|WinMerge| https://winmerge.org/ | 2.16.20 | 2022-04-27 |
+| 13|WinMerge| https://winmerge.org/ | 2.16.22 | 2022-07-27 |
 | 14|GrepWin| https://tools.stefankueng.com/grepWin.html   https://github.com/stefankueng/grepWin/releases | 2.0.10 | 2022-02-19 |
-| 15|Windows Sysinternals| https://docs.microsoft.com/en-us/sysinternals/   https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2022-05-12 |
+| 15|Windows Sysinternals| https://docs.microsoft.com/en-us/sysinternals/   https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2022-07-20 |
 | 16|Python| https://www.python.org/ | 3.9.13 3.10.5 | 2022-05-17 2022-06-06 |
-| 17|Java| https://openjdk.java.net/   https://www.oracle.com/java/technologies/downloads/ | 17.0.3.1 18.0.1.1 | 2022-04-19 |
+| 17|Java| https://openjdk.java.net/   https://www.oracle.com/java/technologies/downloads/ | 17.0.4 18.0.2 | 2022-04-19 |
 | 18|Ruby| https://www.ruby-lang.org/   https://rubyinstaller.org/ |3.1.2 | 2022-04-20 |
 | 19|Perl| https://strawberryperl.com/ | 5.32.1.1 | 2021-01-24|
 | 20|Eclipse| https://www.eclipse.org/ | 2022-06 | 2022-06-15 |
