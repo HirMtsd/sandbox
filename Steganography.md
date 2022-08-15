@@ -5,6 +5,7 @@ Linux-rpm
 
 http://steghide.sourceforge.net/
 http://steghide.sourceforge.net/download.php
+https://ftp.udx.icscoe.jp/Linux/ubuntu/pool/universe/s/steghide/
 
 ・Stepic
 Python
