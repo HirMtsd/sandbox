@@ -27,3 +27,21 @@ http://www.infonet.co.jp/ueyama/ip/glossary/ascii_code.html
 EBCDIC
 https://ja.wikipedia.org/wiki/EBCDIC
 http://www.infonet.co.jp/ueyama/ip/glossary/ebcdic.html
+
+
+
+
+
+confusable mapping
+http://www.unicode.org/Public/security/revision-03/confusablesSummary.txt
+
+Unicode Technical Report #36
+UNICODE SECURITY CONSIDERATIONS
+https://unicode.org/reports/tr36/
+
+
+Zalgo
+https://en.wikipedia.org/wiki/Zalgo_text
+
+Unicodeで絶対知っておくべきセキュリティ5つの注意（翻訳）
+https://techracho.bpsinc.jp/hachi8833/2021_09_08/48435
