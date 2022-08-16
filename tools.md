@@ -74,7 +74,7 @@ Last Edit 2022/08/13(SAT) 17:00 JST(+9)
 | 69|LibraOffice| https://www.libreoffice.org/ | 7.3.4 | 2022-06-03 |
 | 70|PDF-XChange Editor| https://www.tracker-software.com/product/downloads/ | 9.3.361.0 | 2022-04-13 |
 | 71|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ | 22.1.20142.0 | 2022-06-05 |
-| 72|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 2.18 | 2022-04-05 |
+| 72|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 2.19 | 2022-08-03 |
 | 73|Metasploit| https://metasploit.com/   https://github.com/rapid7/metasploit-framework/ | 6.2.6+20220707153403 | 2022-07-07 |
 | 74|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
 | 75|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2022.6.1 | 2022-06-23 |
