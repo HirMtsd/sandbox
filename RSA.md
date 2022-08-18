@@ -18,7 +18,9 @@ http://arigirisu2011.sakura.ne.jp/public_html/ChineseRemainderTheorem.pdf
 桔梗宏孝
 http://www2.kobe-u.ac.jp/~kikyo/Sites/lec/15/suuri/code.pdf
 
-
+応用数学III(14)Nを法とする合同式
+木村真一
+https://www.rs.noda.tus.ac.jp/skimura/AppMath3/AppMathIII-14.pdf
 
 
 RSA暗号の正しさを徹底的に証明する
