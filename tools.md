@@ -1,5 +1,5 @@
 <!-- since 2022/04/12 -->
-Last Edit 2022/08/13(SAT) 17:00 JST(+9)
+Last Edit 2022/08/19(FRI) 17:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|
 |--:|:--|:--|:--|:--|
@@ -59,9 +59,9 @@ Last Edit 2022/08/13(SAT) 17:00 JST(+9)
 | 54|CDIR| https://www.cyberdefense.jp/products/cdir.html | 1.3.5 | 2020-10-05 |
 | 55|WinPrefetchView| https://www.nirsoft.net/utils/win_prefetch_view.html | 1.37 | 2021-10-27 |
 | 56|Windows Registry Recovery| https://www.mitec.cz/wrr.html | 3.1.0 | 2021-02-16 |
-| 57|GPG4win| https://www.gpg4win.org/ | 4.0.2 | 2022-04-26 |
+| 57|GPG4win| https://www.gpg4win.org/ | 4.0.3 | 2022-07-12 |
 | 58|GnuPG| https://gnupg.org/ | 2.3.4 | 2021-12-20 |
-| 59|CyberChef| https://gchq.github.io/CyberChef/   https://github.com/gchq/CyberChef/ | 9.39.1 | 2022-06-10 |
+| 59|CyberChef| https://gchq.github.io/CyberChef/   https://github.com/gchq/CyberChef/ | 9.46.0 | 2022-07-09 |
 | 60|PDF Stream Dumper| http://sandsprite.com/tools.php | 0.9.624 | 2010-07-21 |
 | 61|EXE Explorer| https://www.mitec.cz/exe.html | 3.5.1 | 2022-01-17 |
 | 62|ExeinfoPE| http://exeinfo.booomhost.com/   https://github.com/ExeinfoASL/ASL/ | 0.0.6.9 | 2022-04-20 |
@@ -69,18 +69,18 @@ Last Edit 2022/08/13(SAT) 17:00 JST(+9)
 | 64|PE-sieve| https://hshrzd.wordpress.com/pe-sieve/   https://github.com/hasherezade/pe-sieve/releases/ | 0.3.4 | 2022-02-11 |
 | 65|PEview| http://wjradburn.com/software/ | 0.9.9 | 2011-05-09 |
 | 66|OLETOOLS| https://github.com/decalage2/oletools/   https://pypi.org/project/oletools/ | 0.60.1 | 2022-05-09 |
-| 67|ExifTool| https://exiftool.org/   https://github.com/exiftool/exiftool/ | 12.43 | 2022-07-06 |
+| 67|ExifTool| https://exiftool.org/   https://github.com/exiftool/exiftool/ | 12.44 | 2022-07-21 |
 | 68|QPDF| https://qpdf.sourceforge.io/   https://github.com/qpdf/qpdf | 10.6.3 | 2022-03-12 |
-| 69|LibraOffice| https://www.libreoffice.org/ | 7.3.4 | 2022-06-03 |
+| 69|LibraOffice| https://www.libreoffice.org/ | 7.4 | 2022-08-12 |
 | 70|PDF-XChange Editor| https://www.tracker-software.com/product/downloads/ | 9.3.361.0 | 2022-04-13 |
 | 71|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ | 22.1.20142.0 | 2022-06-05 |
-| 72|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 2.19 | 2022-08-03 |
+| 72|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 2.19.1 | 2022-08-19 |
 | 73|Metasploit| https://metasploit.com/   https://github.com/rapid7/metasploit-framework/ | 6.2.6+20220707153403 | 2022-07-07 |
 | 74|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
 | 75|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2022.6.1 | 2022-06-23 |
 | 76|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
-| 77|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.2 | 2022-05-14 |
-| 78|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.6.6 | 2022-06-04 |
+| 77|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.3 | 2022-07-10 |
+| 78|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.6.8 | 2022-08-04 |
 | xx|Microsoft Visual C++再頒布可能パッケージ| https://docs.microsoft.com/ja-jp/cpp/windows/latest-supported-vc-redist | 2015-2022 | |
 | xx|Microsoft .NET Framework| https://dotnet.microsoft.com/ja-jp/download/dotnet-framework | 4.8 | |
 
