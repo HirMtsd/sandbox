@@ -8,3 +8,8 @@ pyqrcode
 LATEX
 
 GPS
+
+SQLite
+
+protocolbuffer
+
