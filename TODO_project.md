@@ -23,6 +23,7 @@ https://github.com/matplotlib/matplotlib
 https://pypi.org/project/matplotlib/
 
 GIS
+geopy
 2.2.0 2021/07/11
 https://geopy.readthedocs.io/en/latest/
 https://github.com/geopy/geopy
