@@ -35,6 +35,24 @@ https://developers.google.com/protocol-buffers/
 https://github.com/protocolbuffers/protobuf
 https://pypi.org/project/protobuf/
 
+sphinx
+https://github.com/sphinx-doc/sphinx
+
+markupsafe
+
+coverage
+
+docutils
+
+pypng
+
+tox
+
+
+PyMuPDF
+
+opencv-python
+
 SQLite
 
 LATEX
