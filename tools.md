@@ -1,11 +1,11 @@
 <!-- since 2022/04/12 -->
-Last Edit 2022/09/26(MON) 12:00 JST(+9)
+Last Edit 2022/10/01(SAT) 23:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|
 |--:|:--|:--|:--|:--|
-|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 104.0.5112.83 | 2022-08-04 |
-|  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 103.0.2 | 2022-08-09 |
-|  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 89.0.4447.91 | 2022-08-11 |
+|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 106.0.5249.91 | 2022-09-30 |
+|  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 105.0.1 | 2022-09-23 |
+|  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 91.0.4516.20 | 2022-09-21 |
 |  4|7zip| https://7-zip.org/ | 22.01 | 2022-07-15 |
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 |
 |  6| HxD | https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 |
