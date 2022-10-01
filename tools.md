@@ -26,22 +26,22 @@ Last Edit 2022/10/01(SAT) 23:00 JST(+9)
 | 21|PyCharm| https://www.jetbrains.com/ja-jp/pycharm/ | 2022.2.2 | 2022-09-15 |
 | 22|VisuaslStudioCode| https://code.visualstudio.com/   https://github.com/microsoft/vscode/releases/ | 1.71.2 | 2022-09-16 |
 | 23|WireShark| https://wireshark.com/  https://wireshark.org/ | 3.6.8 | 2022-09-07 |
-| 24|NMap (Npcap)| https://nmap.org/   https://npcap.com/   https://github.com/nmap/npcap/ | 7.92 1.70 | 2021-08-07 2022-06-25 |
+| 24|NMap (Npcap)| https://nmap.org/   https://npcap.com/   https://github.com/nmap/npcap/ | 7.93 1.71 | 2021-09-01 2022-08-20 |
 | 25|WinDump (Win10Pcap)| https://www.winpcap.org/windump/   https://www.win10pcap.org/ja/ | 3.9.5 10.2 | 2006-12-06 2015-10-08 |
 | 26|ApateDNS| https://fireeye.market/apps/211380   https://www.fireeye.jp/current-threats/freeware/apatedns.html | 1.0 | 2011-09-29 |
-| 27|BIND| https://www.isc.org/ | 9.16.31 | 2022-07 |
+| 27|BIND| https://www.isc.org/ | 9.16.33 | 2022-09 |
 | 28|GIMP| https://www.gimp.org/ | 2.10.32 | 2022-06-12 |
 | 29|InkScape| https://inkscape.org/ | 1.2.1 | 2022-07-14 |
-| 30|Graphviz| https://graphviz.org/   https://gitlab.com/graphviz/graphviz/ | 5.0.0 | 2022-07-07 |
-| 31| Xn View MP | https://www.xnview.com/en/xnviewmp/ | 1.0 | 2022-05-03 |
-| 32| TweakPNG | http://entropymine.com/jason/tweakpng/ | 1.4.6 | 2014-09-07 |
+| 30|Graphviz| https://graphviz.org/   https://gitlab.com/graphviz/graphviz/ | 6.0.1 | 2022-09-11 |
+| 31|Xn View MP| https://www.xnview.com/en/xnviewmp/ | 1.3.0 | 2022-05-03 |
+| 32|TweakPNG| http://entropymine.com/jason/tweakpng/ | 1.4.6 | 2014-09-07 |
 | 33|IDA| https://hex-rays.com/ida-free/ | 8.0 | 2022-08-01 |
 | 34|Ghidra| https://ghidra-sre.org/   https://github.com/NationalSecurityAgency/ghidra/releases | 10.1.5 | 2022-07-27 |
-| 35|Angr| https://angr.io/   https://github.com/angr/   https://pypi.org/project/angr/ | 9.2.13 | 2022-08-10 |
+| 35|Angr| https://angr.io/   https://github.com/angr/   https://pypi.org/project/angr/ | 9.2.20 | 2022-09-28 |
 | 36|PEDA| https://github.com/longld/peda | 1.2 | 2021-03-19 |
 | 37|WinDbg| https://developer.microsoft.com/ja-jp/windows/downloads/windows-sdk/ | Windows11SDK(10.0.22000) | 2021-10-04 |
 | 38|dnSpy| https://github.com/dnSpy/dnSpy | 6.1.8 | 2020-12-08 |
-| 39|x64dbg| https://x64dbg.com/   https://github.com/x64dbg/x64dbg | 2022-07-04_15-40 | 2022-07-04 |
+| 39|x64dbg| https://x64dbg.com/   https://github.com/x64dbg/x64dbg | 2022-09-25_14-55 | 2022-09-25 |
 | 40|SQLDeveloper| https://www.oracle.com/jp/tools/downloads/sqldev-downloads.html | 21.2.1.204.1703 | 2021-08-11 |
 | 41|DBeaver| https://dbeaver.io/   https://github.com/dbeaver/dbeaver/releases/ | 22.1.4 | 2022-08-08 |
 | 42|SQLite| https://www.sqlite.org/ | 3.39.2 | 2022-07-21 |
