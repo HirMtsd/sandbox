@@ -1,21 +1,21 @@
 <!-- since 2022/04/12 -->
 Last Edit 2022/10/03(MON) 16:00 JST(+9)
 
-|No|Name|URL|Latest Version|Release Date|
-|--:|:--|:--|:--|:--|
-|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 106.0.5249.91 | 2022-09-30 |
-|  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 105.0.1 | 2022-09-23 |
-|  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 91.0.4516.20 | 2022-09-21 |
-|  4|7zip| https://7-zip.org/ | 22.01 | 2022-07-15 |
-|  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 |
-|  6| HxD | https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 |
-|  7| Detect It Easy | https://github.com/horsicq/Detect-It-Easy/ | 3.05 | 2022-06-17 | File Type Detection |
+|No|Name|URL|Latest Version|Release Date|Purpose and Use|
+|--:|:--|:--|:--|:--|:--|
+|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 106.0.5249.91 | 2022-09-30 | WEB Browser |
+|  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 105.0.1 | 2022-09-23 | WEB Browser |
+|  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 91.0.4516.20 | 2022-09-21 | WEB Browser |
+|  4|7zip| https://7-zip.org/ | 22.01 | 2022-07-15 | Archiver |
+|  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 | Text Editor |
+|  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
+|  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/ | 3.05 | 2022-06-17 | File Type Detection |
 |  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.8.8 | 2022-05-17 |
-|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.37.3 | 2022-08-30 |
-| 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 |
-| 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.77 | 2022-05-27 |
-| 12|WinSCP| https://winscp.net/ | 5.21 | 2022-06-15 |
-| 13|WinMerge| https://winmerge.org/ | 2.16.22 | 2022-07-27 |
+|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.37.3 | 2022-08-30 | Distributed version control |
+| 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 | SSH Client |
+| 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.77 | 2022-05-27 | SSH Client |
+| 12|WinSCP| https://winscp.net/ | 5.21 | 2022-06-15 | SCP Client |
+| 13|WinMerge| https://winmerge.org/ | 2.16.22 | 2022-07-27 | File Difference display |
 | 14|GrepWin| https://tools.stefankueng.com/grepWin.html   https://github.com/stefankueng/grepWin/releases | 2.0.11 | 2022-09-26 |
 | 15|Windows Sysinternals| https://docs.microsoft.com/en-us/sysinternals/   https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2022-09-30 |
 | 16|Python| https://www.python.org/ | 3.9.14 3.10.7 | 2022-09-06 2022-09-06 |
