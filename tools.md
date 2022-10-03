@@ -9,7 +9,7 @@ Last Edit 2022/10/03(MON) 16:00 JST(+9)
 |  4|7zip| https://7-zip.org/ | 22.01 | 2022-07-15 | Archiver |
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 | Text Editor |
 |  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
-|  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/ | 3.06 | 2022-08-25 | File Type Detection |
+|  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.06 | 2022-08-25 | File Type Detection |
 |  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.8.8 | 2022-05-17 |
 |  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.37.3 | 2022-08-30 | Distributed version control |
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 | SSH Client |
