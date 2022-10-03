@@ -12,6 +12,5 @@
 |  x| TeX Live on Windows (LaTeX) | https://tug.org/texlive/windows.html | | |
 |  x| DOSBox | https://www.dosbox.com/ | 0.74-3 | 2019-06-26 | 
 |  x| Recaf | https://www.coley.software/Recaf/    https://github.com/Col-E/Recaf | 2.21.13 | 2022-03-29 | Java Binary Code Editor |
-|  x| Detect It Easy | https://github.com/horsicq/Detect-It-Easy/ | 3.05 | 2022-06-17 | File Type Detection |
 |  x| ffuf | https://github.com/ffuf/ffuf | 1.5.0 | 2022-05-19 |
 |  x| gobuster | https://github.com/OJ/gobuster/ | 3.1.0 | 2020-10-19 |
