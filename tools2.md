@@ -15,3 +15,4 @@
 |  x| Recaf | https://www.coley.software/Recaf/    https://github.com/Col-E/Recaf | 2.21.13 | 2022-03-29 | Java Binary Code Editor |
 |  x| ffuf | https://github.com/ffuf/ffuf | 1.5.0 | 2022-05-19 |
 |  x| gobuster | https://github.com/OJ/gobuster/ | 3.1.0 | 2020-10-19 |
+|  x| Freeplane | https://sourceforge.net/projects/freeplane/files/ | 1.10.4 | 2022-09-10 | MindMap Tool (Java Application) |
