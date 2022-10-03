@@ -8,6 +8,7 @@
 |  6| Thunderbird | https://www.thunderbird.net/ja/ | 91.10.0 | 2022-05-31 |
 |  7| VMware Workstation Player | https://www.vmware.com/jp/products/workstation-player/workstation-player-evaluation.html | 16.2.3 | |
 |  8| Oracle VM VirtualBox | https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html | 6.1.14 | |
+|  9|Fhex - A Full-Featured HexEditor| https://github.com/echo-devim/fhex | 3.0.0 | 2021-02-26 | Binary Editor |
 |   | VirtualBox | https://www.virtualbox.org/ | 6.1.34 | 2022-04-19 |
 |  x| TeX Live on Windows (LaTeX) | https://tug.org/texlive/windows.html | | |
 |  x| DOSBox | https://www.dosbox.com/ | 0.74-3 | 2019-06-26 | 
