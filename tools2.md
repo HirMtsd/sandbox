@@ -16,3 +16,7 @@
 |  x| ffuf | https://github.com/ffuf/ffuf | 1.5.0 | 2022-05-19 |
 |  x| gobuster | https://github.com/OJ/gobuster/ | 3.1.0 | 2020-10-19 |
 |  x| Freeplane | https://sourceforge.net/projects/freeplane/files/ | 1.10.4 | 2022-09-10 | MindMap Tool (Java Application) |
+|  x| plantUML | https://plantuml.com/ja/   https://github.com/plantuml/plantuml   https://sourceforge.net/projects/plantuml/ | 1.2022.10 | 2022-09-28| Generate UML diagram from textual description (Java Application) |
+
+
+
