@@ -5,11 +5,11 @@
 |  3| MP3TAG | https://www.mp3tag.de/en/ | 3.16 | 2022-05-30 |
 |  4| iTunes | https://www.apple.com/jp/itunes/ | 12.12.3.5 | 2022-03-09 |
 |  5| ラベル屋さん10 | https://www.labelyasan.com/support/download/ | 1.3.3| 2021-10-26 | 
-|  6| Thunderbird | https://www.thunderbird.net/ja/ | 91.10.0 | 2022-05-31 |
+|  6| Thunderbird | https://www.thunderbird.net/ja/   https://www.thunderbird.net/en-US/thunderbird/102.3.2/releasenotes/ | 102.3.2 | 2022-10-07 | Mail Client |
 |  7| VMware Workstation Player | https://www.vmware.com/jp/products/workstation-player/workstation-player-evaluation.html | 16.2.3 | |
 |  8| Oracle VM VirtualBox | https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html | 6.1.14 | |
+|   | VirtualBox | https://www.virtualbox.org/ | 6.1.38 | 2022-09-02 | Virtual Machine |
 |  9|Fhex - A Full-Featured HexEditor| https://github.com/echo-devim/fhex | 3.0.0 | 2021-02-26 | Binary Editor |
-|   | VirtualBox | https://www.virtualbox.org/ | 6.1.34 | 2022-04-19 |
 |  x| TeX Live on Windows (LaTeX) | https://tug.org/texlive/windows.html | | |
 |  x| DOSBox | https://www.dosbox.com/ | 0.74-3 | 2019-06-26 | 
 |  x| Recaf | https://www.coley.software/Recaf/    https://github.com/Col-E/Recaf | 2.21.13 | 2022-03-29 | Java Binary Code Editor |
