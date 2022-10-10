@@ -9,6 +9,7 @@
 |  7| VMware Workstation Player | https://www.vmware.com/jp/products/workstation-player/workstation-player-evaluation.html | 16.2.3 | |
 |  8| Oracle VM VirtualBox | https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html | 6.1.14 | |
 |   | VirtualBox | https://www.virtualbox.org/ | 6.1.38 | 2022-09-02 | Virtual Machine |
+|   | Tor Browser | https://www.torproject.org/   https://www.torproject.org/download/languages/ | 11.5.2 | 2022-08-29 | Privacy Browser |
 |  9|Fhex - A Full-Featured HexEditor| https://github.com/echo-devim/fhex | 3.0.0 | 2021-02-26 | Binary Editor |
 |  x| TeX Live on Windows (LaTeX) | https://tug.org/texlive/windows.html | | |
 |  x| DOSBox | https://www.dosbox.com/ | 0.74-3 | 2019-06-26 | 
