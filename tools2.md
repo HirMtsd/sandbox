@@ -20,4 +20,4 @@
 |  x| plantUML | https://plantuml.com/ja/   https://github.com/plantuml/plantuml   https://sourceforge.net/projects/plantuml/ | 1.2022.10 | 2022-09-28| Generate UML diagram from textual description (Java Application) |
 
 
-
+https://github.com/jgraph/drawio-desktop/releases
