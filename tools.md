@@ -1,5 +1,5 @@
 <!-- since 2022/04/12 -->
-Last Edit 2022/10/03(MON) 16:00 JST(+9)
+Last Edit 2022/10/27(THU) 00:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|Purpose and Use|
 |--:|:--|:--|:--|:--|:--|
@@ -60,8 +60,8 @@ Last Edit 2022/10/03(MON) 16:00 JST(+9)
 | 54|CDIR| https://www.cyberdefense.jp/products/cdir.html | 1.3.5 | 2020-10-05 |
 | 55|WinPrefetchView| https://www.nirsoft.net/utils/win_prefetch_view.html | 1.37 | 2021-10-27 |
 | 56|Windows Registry Recovery| https://www.mitec.cz/wrr.html | 3.1.0 | 2021-02-16 |
-| 57|GPG4win| https://www.gpg4win.org/ | 4.0.3 | 2022-07-12 |
-| 58|GnuPG| https://gnupg.org/ | 2.3.4 | 2021-12-20 |
+| 57|GPG4win| https://www.gpg4win.org/ | 4.0.4 | 2022-10-17 |
+| 58|GnuPG| https://gnupg.org/ | 2.3.8 | 2022-10-13 |
 | 59|CyberChef| https://gchq.github.io/CyberChef/   https://github.com/gchq/CyberChef/ | 9.46.0 | 2022-07-09 |
 | 60|PDF Stream Dumper| http://sandsprite.com/tools.php | 0.9.624 | 2010-07-21 |
 | 61|EXE Explorer| https://www.mitec.cz/exe.html | 3.5.1 | 2022-01-17 |
