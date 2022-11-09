@@ -21,3 +21,5 @@
 |  x| DrawIO | https://app.diagrams.net/   https://github.com/jgraph/drawio-desktop | 20.3.0 1 | 2022-09-10 | diagramming desktop application | 
 |  x| DrawIO VSCode | https://github.com/hediet/vscode-drawio    https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio | 1.6.4 | 2021-12-21 | DrawIO VSCode Extention |
    
+FuzzyHash
+https://joinmastodon.org/
