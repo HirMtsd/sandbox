@@ -20,6 +20,8 @@
 |  x| plantUML | https://plantuml.com/ja/   https://github.com/plantuml/plantuml   https://sourceforge.net/projects/plantuml/ | 1.2022.10 | 2022-09-28| Generate UML diagram from textual description (Java Application) |
 |  x| DrawIO | https://app.diagrams.net/   https://github.com/jgraph/drawio-desktop | 20.3.0 1 | 2022-09-10 | diagramming desktop application | 
 |  x| DrawIO VSCode | https://github.com/hediet/vscode-drawio    https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio | 1.6.4 | 2021-12-21 | DrawIO VSCode Extention |
+|  x| ssdeep | https://ssdeep-project.github.io/ssdeep/   https://github.com/ssdeep-project/ssdeep | 2.14.1 | 2017-11-07 | Fuzzy Hashing API |
+|  x| impfuzzy | https://github.com/JPCERTCC/impfuzzy/ https://pypi.org/project/pyimpfuzzy/ | 0.5 | 2018-05-15 | ssdeep wrapper | 
+
    
-FuzzyHash
 https://joinmastodon.org/
