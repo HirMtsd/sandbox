@@ -75,61 +75,91 @@ https://www.learning-nao.com/?p=3237
 
 https://epydoc.sourceforge.net/manual-fields.html#module-metadata-variables
 
-
+プロジェクトの新規作成(GitLab)
 https://www.aise.ics.saitama-u.ac.jp/~gotoh/CreateNewProjectOnGitLab.html
 
+Gitlabでプロジェクト作成から開発開始まで（gitはhttpsで）
 https://gist.github.com/eiichi-worker/214d5814b7ab07038434235d296bb58b
 
+DataGrip で GitHub プロジェクトを開始する
 https://pleiades.io/help/datagrip/how-to-start-a-github-project-in-datagrip.html#sharing-a-directory-on-github
 
+2020年05月09日GitHubを使って新規プロジェクト開発を始めるまで
 https://qiita.com/daikideal/items/819f63e5f936bd5155fd
 
+ふだん Markdown を書く技術者のための reStructuredText 文法まとめ
 https://gotohayato.com/content/464/
 
+PDFから文章を読み取る！ 「PyMuPDF 入門編」
 https://ai-research-collection.com/pymupdf-tutorial/
 
+20160501 matplotlib で、テキスト、数式というかLaTex。
 http://naga-tsuzuki.sblo.jp/s/article/175071741.html
 
+2022-05-28 Matplotlib 軸周り完璧マスターガイド | 軸・軸目盛・目盛り線の設定
 https://www.yutaka-note.com/entry/matplotlib_axis
 
+LaTeX入門 LaTeXコマンド一覧（リスト）
 https://medemanabu.net/latex/latex-commands-list/
 
+[LaTeX] jlreq --- もう一つの日本語ドキュメントクラス
 https://konoyonohana.blog.fc2.com/blog-entry-382.html
 
+LaTeX入門プリアンブル
 https://medemanabu.net/latex/preamble/
 
+エンジンが不正な時のエラーメッセージ #53
 https://github.com/abenori/jlreq/issues/53
 
+LaTeX \section などで箇条書きのように字下げする方法
 http://www.math.kobe-u.ac.jp/HOME/kodama/tips-latex-indent-section.html
 
+GitHub Actionsでいい感じのリリースノートを完全自動で作成する
 https://zenn.dev/kshida/articles/auto-generate-release-note-with-calver
 
+PlantUML使い方メモ
 https://qiita.com/opengl-8080/items/98c510b8ca060bdd2ea3
 
+やっかいな日本語
 https://zenn.dev/spiegel/articles/20210118-characters
 
+解決！ OSSコンプライアンス（4）「ライセンスどおりにしたのに違反？」「バージョンアップでライセンスが変わった！？」
 https://atmarkit.itmedia.co.jp/ait/spv/2204/21/news007.html
 
+GnuPGを使おう
 https://okumuralab.org/~okumura/misc/220628.html
 
+GnuPG チートシート（鍵作成から失効まで）
 https://text.baldanders.info/openpgp/gnupg-cheat-sheet/
 
+pythonでテキストデータをローカル保存する方法 約40選
 https://qiita.com/payaneco/items/74d554c6660662d492fe
 
+今さらだがフェルミ推定というかオーダー推定についてまとめてみた
 https://readingmonkey.blog.fc2.com/blog-entry-751.html
 
+『競技プログラミングの鉄則』序盤20,000文字+目次を無料公開します！
 https://e869120.hatenablog.com/entry/2022/11/01/224639
 
+添付PDFファイルを使ったサイバー攻撃、3つの手法
 https://active.nikkeibp.co.jp/atclact/active/17/100300158/100300005/
 
+Fuzzyhashとは？検証してみた
 https://qiita.com/harapeco_nya/items/57906207c066f7d6d658
 
+MIT テクノロジーレビュー　Special Issue Vol.43
+ War in Ukraine インターネット時代の新しい戦争				 2022 年 5 月 31 日発行
+発行　	 株式会社角川アスキー総合研究所
 https://www.technologyreview.jp/emook/#post_277546
 
+TsukuCTF 2022のWriteup
 https://ptr-yudai.hatenablog.com/entry/2022/10/24/195448
 
+デジタル庁、Web・アプリデザインの指針まとめた「デザインシステム」公開
 https://www.itmedia.co.jp/news/spv/2211/11/news148.html
 
+どう使う？衛星データ無料利用のススメ
 https://journal.meti.go.jp/p/23866/?ui_medium=paid&ui_source=recommend&ui_campaign=yol&dicbo=v1-861935ca2391f78bd1c047c9795807ce-0051fb147f57472d35b3aa2a70e16d1f88-mmztknbrmm3taljwg4ztgljugu2doljzgaydcljyguzdsmjygyztozldmu
 
+Web・コーディング界隈で読み間違いしやすい用語一覧
 https://zenn.dev/kalubi/articles/f68275fa91ebc5
