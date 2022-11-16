@@ -7,6 +7,7 @@ Last Edit 2022/10/27(THU) 00:00 JST(+9)
 |  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 105.0.1 | 2022-09-23 | WEB Browser |
 |  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 91.0.4516.20 | 2022-09-21 | WEB Browser |
 |   |Tor | https://www.torproject.org/   https://www.torproject.org/download/languages/ | 11.5.4 |  | WEB Browser |
+|   |Brave| https://brave.com/ ||| WEB Browser |
 |  4|7zip| https://7-zip.org/ | 22.01 | 2022-07-15 | Archiver |
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 | Text Editor |
 |  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
