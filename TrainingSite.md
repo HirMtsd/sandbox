@@ -23,6 +23,7 @@
 |  x| OverTheWire Wargames Bandit | https://overthewire.org/wargames/bandit/ | Shell |
 |  x| OverTheWire Wargames Natas | https://overthewire.org/wargames/natas/ | basics of serverside web-security |
 |  x| CRYPTO101 | https://www.crypto101.io/ | introductory course on cryptography |
+|  x| OpenIntro Statistics(4th Edition) | http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf | データ分析のための統計学入門 |
 
 
 
