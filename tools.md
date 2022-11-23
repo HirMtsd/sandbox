@@ -1,30 +1,31 @@
 <!-- since 2022/04/12 -->
-Last Edit 2022/10/27(THU) 00:00 JST(+9)
+Last Edit 2022/11/23(TWED) 18:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|Purpose and Use|
 |--:|:--|:--|:--|:--|:--|
-|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 106.0.5249.91 | 2022-09-30 | WEB Browser |
-|  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 105.0.1 | 2022-09-23 | WEB Browser |
-|  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 91.0.4516.20 | 2022-09-21 | WEB Browser |
-|   |Tor | https://www.torproject.org/   https://www.torproject.org/download/languages/ | 11.5.4 |  | WEB Browser |
-|   |Brave| https://brave.com/ ||| WEB Browser |
+|  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 107.0.5304.107 | 2022-11-08 | WEB Browser |
+|  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 107.0 | 2022-11-15 | WEB Browser |
+|  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 93.0.4585.11 | 2022-11-15 | WEB Browser |
+|   |Tor | https://www.torproject.org/   https://www.torproject.org/download/languages/ | 11.5.8 |  | WEB Browser |
+|   |Brave| https://brave.com/ | 1.45.131 | | WEB Browser |
 |  4|7zip| https://7-zip.org/ | 22.01 | 2022-07-15 | Archiver |
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 | Text Editor |
 |  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
 |  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.06 | 2022-08-25 | File Type Detection |
 |  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.8.8 | 2022-05-17 |
-|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.37.3 | 2022-08-30 | Distributed version control |
+|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.38.1 | 2022-10-18 | Distributed version control |
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 | SSH Client |
-| 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.77 | 2022-05-27 | SSH Client |
-| 12|WinSCP| https://winscp.net/ | 5.21 | 2022-06-15 | SCP Client |
-| 13|WinMerge| https://winmerge.org/ | 2.16.22 | 2022-07-27 | File Difference display |
+| 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.78 | 2022-10-29 | SSH Client |
+| 12|WinSCP| https://winscp.net/ | 5.21 | 2022-06-15 | FTP Client |
+|   |FileZilla| https://filezilla-project.org/ | 3.62.2 | 2022-11-22 | FTP Client |
+| 13|WinMerge| https://winmerge.org/ | 2.16.24 | 2022-10-27 | File Difference display |
 | 14|GrepWin| https://tools.stefankueng.com/grepWin.html   https://github.com/stefankueng/grepWin/releases | 2.0.11 | 2022-09-26 |
-| 15|Windows Sysinternals| https://docs.microsoft.com/en-us/sysinternals/   https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2022-09-30 |
-| 16|Python| https://www.python.org/ | 3.9.14 3.10.7 | 2022-09-06 2022-09-06 |
-| 17|Java| https://openjdk.java.net/   https://www.oracle.com/java/technologies/downloads/ | 17.0.4.1  19.0.0 | 2022-07-19  2022-09-20 |
-| 18|Ruby| https://www.ruby-lang.org/   https://rubyinstaller.org/ | 3.1.2 | 2022-04-20 |
-| 19|Perl| https://strawberryperl.com/ | 5.32.1.1 | 2021-01-24|
-| 20|Eclipse| https://www.eclipse.org/ | 2022‑09 | 2022-09-13 |
+| 15|Windows Sysinternals| https://docs.microsoft.com/en-us/sysinternals/   https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2022-11-11 |
+| 16|Python| https://www.python.org/ | 3.9.15 3.10.8 3.11.0 | 2022-10-11 2022-10-11 2022-10-24 | Programing Language |
+| 17|Java| https://openjdk.java.net/   https://www.oracle.com/java/technologies/downloads/ | 17.0.5  19.0.1 | 2022-07-19  2022-09-20 | Programing Language |
+| 18|Ruby| https://www.ruby-lang.org/   https://rubyinstaller.org/ | 3.1.2 | 2022-04-20 | Programing Language |
+| 19|Perl| https://strawberryperl.com/ | 5.32.1.1 | 2021-01-24| Programing Language |
+| 20|Eclipse| https://www.eclipse.org/ | 2022‑09 | 2022-09-13 | 
 | 21|PyCharm| https://www.jetbrains.com/ja-jp/pycharm/ | 2022.2.2 | 2022-09-15 |
 | 22|VisuaslStudioCode| https://code.visualstudio.com/   https://github.com/microsoft/vscode/releases/ | 1.71.2 | 2022-09-16 |
 | 23|WireShark| https://wireshark.com/  https://wireshark.org/ | 3.6.8 | 2022-09-07 |
