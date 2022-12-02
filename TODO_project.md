@@ -16,7 +16,7 @@
 | 13|PyMuPDF    |1.20.2 |2022/08/13 |https://mupdf.com/ https://pymupdf.readthedocs.io/en/latest/ |https://github.com/pymupdf/PyMuPDF |https://pypi.org/project/PyMuPDF/|
 | 14|opencv-python|4.6.0.66 |2022/06/08 |https://opencv.org/ |https://github.com/opencv/opencv |https://pypi.org/project/opencv-python/|
 | 15|Graphviz   |0.20.1 |2022/07/23 |https://graphviz.readthedocs.io/en/stable/ https://www.graphviz.org/ | https://github.com/xflr6/graphviz/ https://gitlab.com/graphviz/graphviz/ | https://gitlab.com/graphviz/graphviz/ |
-
+| 16|ssdeep     |2.14.1 |2017/05/07 |https://ssdeep-project.github.io/ssdeep|2.14.1|||
 
 SQLite
 
