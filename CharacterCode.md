@@ -45,3 +45,8 @@ https://en.wikipedia.org/wiki/Zalgo_text
 
 Unicodeで絶対知っておくべきセキュリティ5つの注意（翻訳）
 https://techracho.bpsinc.jp/hachi8833/2021_09_08/48435
+
+JIS X 0208およびJIS X 0213の字形・字体の変更点
+https://www.asahi-net.or.jp/~ax2s-kmtn/ref/jiserv.html
+
+
