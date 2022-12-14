@@ -1,6 +1,10 @@
 glyphwiki
 https://glyphwiki.org/
 
+https://jigen.net/kanji/
+
+http://zi-hi.com/sp/uni/
+
 Unicode
 https://ja.wikipedia.org/wiki/Unicode
 http://www.unicode.org/charts/
