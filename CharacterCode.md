@@ -1,8 +1,10 @@
 glyphwiki
 https://glyphwiki.org/
 
+字源.net
 https://jigen.net/kanji/
 
+字嗨
 http://zi-hi.com/sp/uni/
 
 Unicode
