@@ -26,6 +26,10 @@ https://ja.wikipedia.org/wiki/JIS_X_0208
 JIS X 0201 「7ビット及び8ビットの情報交換用符号化文字集合」
 https://ja.wikipedia.org/wiki/JIS_X_0201
 
+「常用漢字表の字体・字形に関する指針（報告）について」文化庁
+https://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/pdf/2016022902.pdf
+
+
 ASCII
 https://ja.wikipedia.org/wiki/ASCII
 http://www.infonet.co.jp/ueyama/ip/glossary/ascii_code.html
