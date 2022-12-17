@@ -55,3 +55,5 @@ https://techracho.bpsinc.jp/hachi8833/2021_09_08/48435
 JIS X 0208およびJIS X 0213の字形・字体の変更点
 https://www.asahi-net.or.jp/~ax2s-kmtn/ref/jisrev.html
 
+JIS2004制定時の変更点
+https://www.asahi-net.or.jp/~ax2s-kmtn/ref/jis2000-2004.html
