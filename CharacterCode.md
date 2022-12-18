@@ -61,3 +61,12 @@ https://www.asahi-net.or.jp/~ax2s-kmtn/ref/jisrev.html
 
 JIS2004制定時の変更点
 https://www.asahi-net.or.jp/~ax2s-kmtn/ref/jis2000-2004.html
+
+字形
+https://shiromoji.hatenablog.jp/entry/20081126/1227714350
+
+異体字処理 付表
+http://www.arc.ritsumei.ac.jp/archive01/theater/document/hyobanki/fuhyou5.htm
+
+大漢和辞典には１字だけ、本当にこんな字が存在していたのか謎だと言われている不思議な字がある→海外からも考察が集まる
+https://togetter.com/li/1948344
