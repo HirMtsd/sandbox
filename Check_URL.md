@@ -163,3 +163,50 @@ https://journal.meti.go.jp/p/23866/?ui_medium=paid&ui_source=recommend&ui_campai
 
 Web・コーディング界隈で読み間違いしやすい用語一覧
 https://zenn.dev/kalubi/articles/f68275fa91ebc5
+
+
+
+
+
+2022/12/18(日)リンク整理
+Excelで画像の背景を削除する事が出来るらしい
+https://togetter.com/li/2011930
+
+ChatGPT
+https://openai.com/blog/chatgpt/
+
+Open Whisper Systems
+https://en.m.wikipedia.org/wiki/Open_Whisper_Systems
+
+open ai Introducing Whisper
+https://openai.com/blog/whisper/
+
+無料でOpenAIの「Whisper」を使って録音ファイルから音声認識で文字おこしする方法まとめ
+https://gigazine.net/news/20220929-openai-whisper-install-and-usage/
+
+【簡単かつ高精度】音声認識AIのWhisperを実装してみた
+https://zenn.dev/robes/articles/a72b95f9f76c39
+
+かつての当たり前が通用しない？ Modern C++ではやらないこと
+https://codezine.jp/article/detail/16769?p=2
+
+登大遊さんがフリーツールの更新版をリリース→ReadMeが日本のシステム管理文化を痛烈に批判する内容で面白い
+https://togetter.com/li/1977312?page=2
+
+こんなテスト仕様書は書かないで
+https://qiita.com/nacho0707/items/296471d649d5baf825b7
+
+パワポでフォントを自由に変形！アウトライン化を使ったお手軽な方法
+https://forest.watch.impress.co.jp/docs/serial/offitech/1454142.html
+
+
+デジタル庁、Web・アプリデザインの指針まとめた「デザインシステム」公開　地方自治体の活用も見込む
+https://www.itmedia.co.jp/news/spv/2211/11/news148.html
+
+
+「根性論は禁止」「以後気をつけます、はナシ」"ノートラブルなシステムを作るための心構え"に納得の声
+https://togetter.com/li/1917561
+
+私は聞いていない｣という上司はムダな存在…トヨタ社内に貼ってある｢仕事の7つのムダ｣のすさまじさ
+https://president.jp/articles/-/63215?page=6
+
