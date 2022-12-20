@@ -29,6 +29,8 @@ https://ja.wikipedia.org/wiki/JIS_X_0201
 「常用漢字表の字体・字形に関する指針（報告）について」文化庁
 https://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/pdf/2016022902.pdf
 
+IPAmj明朝フォント
+https://moji.or.jp/mojikiban/font/
 
 ASCII
 https://ja.wikipedia.org/wiki/ASCII
