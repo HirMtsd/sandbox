@@ -6,6 +6,7 @@
 |  x| 247CTF | https://247ctf.com/ | |
 |  3| At Corder | https://atcoder.jp/ |
 |   | SQL Contest | https://topsic-contest.jp/problems |
+|   | JPXERT/CC - JSAC | https://www.youtube.com/channel/UCg3LUVPVFZMoMS0UFYVOdeg |
 |  4| | https://cs50.jp/ | ハーバード大学 コンピュータサイエンスプログラミング技術コース CS50x (日本語訳) |
 | 12| | https://atcold.github.io/pytorch-Deep-Learning/ja/ | 深層学習 DS-GA 1008 · 2020年度春学期 · ニューヨーク大学データ・サイエンス・センター |
 |  5| | http://hdl.handle.net/2433/265459 | 京都大学プログラミング演習 Python 2021 |
