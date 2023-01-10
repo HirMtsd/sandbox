@@ -31,6 +31,7 @@ Last Edit 2022/11/23(TWED) 18:00 JST(+9)
 | 23|WireShark| https://wireshark.com/  https://wireshark.org/ | 3.6.8 | 2022-09-07 |
 | 24|NMap (Npcap)| https://nmap.org/   https://npcap.com/   https://github.com/nmap/npcap/ | 7.93 1.71 | 2021-09-01 2022-08-20 |
 | 25|WinDump (Win10Pcap)| https://www.winpcap.org/windump/   https://www.win10pcap.org/ja/ | 3.9.5 10.2 | 2006-12-06 2015-10-08 |
+|   |Aircrack-ng| https://www.aircrack-ng.org/ | 1.7 | 2022-05-10 |
 | 26|ApateDNS| https://fireeye.market/apps/211380   https://www.fireeye.jp/current-threats/freeware/apatedns.html | 1.0 | 2011-09-29 |
 | 27|BIND| https://www.isc.org/ | 9.16.33 | 2022-09 |
 | 28|GIMP| https://www.gimp.org/ | 2.10.32 | 2022-06-12 |
