@@ -22,3 +22,5 @@ SQLite
 
 LATEX
 
+Java install
+https://nowokay.hatenablog.com/entry/2023/01/12/211150
