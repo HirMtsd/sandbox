@@ -27,7 +27,8 @@
 |  x| OpenIntro Statistics(4th Edition) | http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf | データ分析のための統計学入門 |
 
 
-
+https://ocwx.ocw.u-tokyo.ac.jp/course_11408/
+https://ocwx.ocw.u-tokyo.ac.jp/course_11409/
 
 → Pentester Lab
 → tcm-security
