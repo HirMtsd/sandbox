@@ -9,9 +9,9 @@ Last Edit 2022/11/23(TWED) 18:00 JST(+9)
 |   |Tor | https://www.torproject.org/   https://www.torproject.org/download/languages/ | 11.5.8 |  | WEB Browser |
 |   |Brave| https://brave.com/ | 1.45.131 | | WEB Browser |
 |  4|7zip| https://7-zip.org/ | 22.01 | 2022-07-15 | Archiver |
-|  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.1 | 2020-05-30 | Text Editor |
+|  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.2 | 2022-12-03 | Text Editor |
 |  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
-|  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.06 | 2022-08-25 | File Type Detection |
+|  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.07 | 2023-01-04 | File Type Detection |
 |  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.8.8 | 2022-05-17 |
 |  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.38.1 | 2022-10-18 | Distributed version control |
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 | SSH Client |
