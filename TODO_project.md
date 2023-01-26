@@ -18,6 +18,22 @@
 | 15|Graphviz   |0.20.1 |2022/07/23 |https://graphviz.readthedocs.io/en/stable/ https://www.graphviz.org/ | https://github.com/xflr6/graphviz/ https://gitlab.com/graphviz/graphviz/ | https://gitlab.com/graphviz/graphviz/ |
 | 16|ssdeep     |2.14.1 |2017/05/07 |https://ssdeep-project.github.io/ssdeep|2.14.1|||
 
+
+|No |Name|Ver|Date|URL|Remarks|
+|--:|:-- |:--|:-- |:--       |:--|
+|  0|Sigma     | 0.21  | 2022/04/09 | https://github.com/SigmaHQ/sigma | open signature format |
+|  1|Chainsaw  | 2.3.1 | 2023/01/14 | https://github.com/WithSecureLabs/chainsaw | Rapidly Search and Hunt through Windows Forensic Artefacts |
+|  2|Zircolite | 2.9.7 | 2022/10/08 | https://github.com/wagga40/Zircolite | Standalone SIGMA-based detection tool (EVTX,Auditd,Sysmon for linux,JSONL/NDJSON Logs)|
+|  3|Hayabusa  | 2.1.0 | 2023/01/09 | https://github.com/Yamato-Security/hayabusa | Windows event log fast forensics timeline generator |
+|  4|EvtxECmd  | - | - | https://ericzimmerman.github.io/#!index.md | Event log (evtx) parser with standardized CSV, XML, and json |
+|  5|TimelineExplorer  | - | - | https://ericzimmerman.github.io/#!index.md | CSVに変換したイベントログを見やすく表示 |
+|  x|Uncoder   | - | - | https://uncoder.io/ | online Sigma translation engine |
+|  x|VSCode Extension  | - | - | https://marketplace.visualstudio.com/items?itemName=humpalum.sigma |
+|  x|Sysmon    | - | - | https://github.com/Neo23x0/sysmon-config/blob/master/sysmonconfig-trace.xml |
+|  x|Sysmon-Cheatsheet | - | - | https://github.com/olafhartong/sysmon-cheatsheet/blob/master/Sysmon-Cheatsheet.pdf |
+
+
+
 SQLite
 
 LATEX
