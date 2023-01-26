@@ -28,5 +28,19 @@ https://nowokay.hatenablog.com/entry/2023/01/12/211150
 SBOM WorkShop
 https://github.com/ninoseki/jsac2023-sbom-workshop
 
+Sigma
+https://github.com/SigmaHQ/sigma
+公式仕様
+  https://sigmahq.github.io/sigma-specification/Sigma_specification.html
+Sigmaルールリポジトリ例
+  https://github.com/SigmaHQ/sigma/tree/master/rules
+  https://github.com/The-DFIR-Report/Sigma-Rules
+  https://github.com/joesecurity/sigma-rules
+  https://github.com/mbabinski/Sigma-Rules
+  https://github.com/mdecrevoisier/SIGMA-detection-rules
+  https://github.com/blacklanternsecurity/sigma-rules
+  https://github.com/WithSecureLabs/lazarus-sigma-rules
+
+
 Test
 https://twitter.com/manatsuminori/status/1401151591177097217
