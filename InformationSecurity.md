@@ -15,12 +15,11 @@
 ## 情報セキュリティ関係企業
 |No|URL|名称|カナ名称|
 |--:|:--|:--|:--|
-|  1|https://www.trendmicro.com/ja_jp/research.html https://blog.trendmicro.co.jp/              |Trend Micro               |トレンドマイクロ        |
+|  1|https://www.trendmicro.com/ja_jp/research.html (旧) https://blog.trendmicro.co.jp/              |Trend Micro               |トレンドマイクロ        |
 |  2|https://unit42.paloaltonetworks.jp/         |Palo Alto Networks(UNIT42)|パロアルトネットワークス|
 |  3|https://www.cybereason.co.jp/blog/          |Cybereason                |サイバーリーズン        |
 |  4|https://blog.kaspersky.co.jp/               |Kaspersky                 |カスペルスキー          |
-|  5|https://www.fireeye.jp/blog/                |FireEye                   |ファイアアイ            |
-|   |https://www.mandiant.jp/resources           |Mandiant                  |マンディエント|
+|  5|https://www.mandiant.jp/resources/          |Mandiant                  |マンディエント|
 |  6|https://www.mbsd.jp/research/               |MBSD                      |三井物産セキュアディレクション|
 |  7|https://blogs.blackberry.com/ja/jp          |BlackBerry                |ブラックベリー|
 |  8|https://www.lac.co.jp/lacwatch/             |LAC                       |ラック                  |
@@ -33,10 +32,11 @@
 | 13|https://blog.nflabs.jp/                     |NFLabs                    |エヌ・エフ・ラボラトリーズ|
 | 14|https://engineers.ffri.jp/                  |FFRI                      |エフエフアールアイ| 
 | 15|https://eset-info.canon-its.jp/malware_info/|Canon Marketing Japan     |キヤノンマーケティングジャパン|
-| 16|https://www.sophos.com/ja-jp/labs.aspx      |Sophos                    |ソフォス                |
-| 17|https://www.crowdstrike.jp/resources/       |CrowdStrike               |クラウドストライク      |
-| 18|https://www.carbonblack.com/blog/           |CarbonBlack(VMware)       |カーボンブラック       |
-| 19|https://www.tripwire.com/state-of-security/ |Tripwire                  |トリップワイヤー       |
+| 16|https://www.proofpoint.com/jp/blog          |ProofPoint                |プルーフポイント|
+| 17|https://www.sophos.com/ja-jp/labs.aspx      |Sophos                    |ソフォス                |
+| 18|https://www.crowdstrike.jp/resources/       |CrowdStrike               |クラウドストライク      |
+| 19|https://www.carbonblack.com/blog/           |CarbonBlack(VMware)       |カーボンブラック       |
+| 20|https://www.tripwire.com/state-of-security/ |Tripwire                  |トリップワイヤー       |
 
 ## 注意喚起情報
 |No|URL|名称|
