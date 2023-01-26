@@ -6,8 +6,8 @@ Last Edit 2022/11/23(TWED) 18:00 JST(+9)
 |  1|Chrome| https://www.google.com/chrome/?standalone=1  https://chromereleases.googleblog.com/ | 107.0.5304.107 | 2022-11-08 | WEB Browser |
 |  2|FireFox| https://www.mozilla.org/ja/firefox/all/#product-desktop-release | 107.0 | 2022-11-15 | WEB Browser |
 |  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 93.0.4585.11 | 2022-11-15 | WEB Browser |
-|   |Tor | https://www.torproject.org/   https://www.torproject.org/download/languages/ | 11.5.8 |  | WEB Browser |
-|   |Brave| https://brave.com/ | 1.45.131 | | WEB Browser |
+|  x|Tor | https://www.torproject.org/   https://www.torproject.org/download/languages/ | 11.5.8 |  | WEB Browser |
+|  x|Brave| https://brave.com/ | 1.45.131 | | WEB Browser |
 |  4|7zip| https://7-zip.org/ | 22.01 | 2022-07-15 | Archiver |
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.2 | 2022-12-03 | Text Editor |
 |  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
@@ -17,7 +17,7 @@ Last Edit 2022/11/23(TWED) 18:00 JST(+9)
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 | SSH Client |
 | 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.78 | 2022-10-29 | SSH Client |
 | 12|WinSCP| https://winscp.net/ | 5.21 | 2022-06-15 | FTP Client |
-|   |FileZilla| https://filezilla-project.org/ | 3.62.2 | 2022-11-22 | FTP Client |
+|  x|FileZilla| https://filezilla-project.org/ | 3.62.2 | 2022-11-22 | FTP Client |
 | 13|WinMerge| https://winmerge.org/ | 2.16.24 | 2022-10-27 | File Difference display |
 | 14|GrepWin| https://tools.stefankueng.com/grepWin.html   https://github.com/stefankueng/grepWin/releases | 2.0.11 | 2022-09-26 |
 | 15|Windows Sysinternals| https://docs.microsoft.com/en-us/sysinternals/   https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2022-11-11 |
@@ -31,7 +31,7 @@ Last Edit 2022/11/23(TWED) 18:00 JST(+9)
 | 23|WireShark| https://wireshark.com/  https://wireshark.org/ | 3.6.8 | 2022-09-07 |
 | 24|NMap (Npcap)| https://nmap.org/   https://npcap.com/   https://github.com/nmap/npcap/ | 7.93 1.71 | 2021-09-01 2022-08-20 |
 | 25|WinDump (Win10Pcap)| https://www.winpcap.org/windump/   https://www.win10pcap.org/ja/ | 3.9.5 10.2 | 2006-12-06 2015-10-08 |
-|   |Aircrack-ng| https://www.aircrack-ng.org/ | 1.7 | 2022-05-10 |
+|  x|Aircrack-ng| https://www.aircrack-ng.org/ | 1.7 | 2022-05-10 | tools to assess WiFi network security |
 | 26|ApateDNS| https://fireeye.market/apps/211380   https://www.fireeye.jp/current-threats/freeware/apatedns.html | 1.0 | 2011-09-29 |
 | 27|BIND| https://www.isc.org/ | 9.16.33 | 2022-09 |
 | 28|GIMP| https://www.gimp.org/ | 2.10.32 | 2022-06-12 |
@@ -79,6 +79,7 @@ Last Edit 2022/11/23(TWED) 18:00 JST(+9)
 | 70|PDF-XChange Editor| https://www.tracker-software.com/product/downloads/ | 9.3.361.0 | 2022-04-13 |
 | 71|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ | 22.1.20142.0 | 2022-06-05 |
 | 72|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 2.19.1 | 2022-08-19 |
+|  x|Fiddler| https://www.telerik.com/fiddler| | - | - |Web debugging proxy|
 | 73|Metasploit| https://metasploit.com/   https://github.com/rapid7/metasploit-framework/ | 6.2.6+20220707153403 | 2022-07-07 |
 | 74|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
 | 75|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2022.6.1 | 2022-06-23 |
