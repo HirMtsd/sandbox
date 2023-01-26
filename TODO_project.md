@@ -25,5 +25,8 @@ LATEX
 Java install
 https://nowokay.hatenablog.com/entry/2023/01/12/211150
 
+SBOM WorkShop
+https://github.com/ninoseki/jsac2023-sbom-workshop
+
 Test
 https://twitter.com/manatsuminori/status/1401151591177097217
