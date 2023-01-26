@@ -46,6 +46,8 @@ Last Edit 2022/11/23(TWED) 18:00 JST(+9)
 | 37|WinDbg| https://developer.microsoft.com/ja-jp/windows/downloads/windows-sdk/ | Windows11SDK(10.0.22000) | 2021-10-04 |
 | 38|dnSpy| https://github.com/dnSpy/dnSpy | 6.1.8 | 2020-12-08 |
 | 39|x64dbg| https://x64dbg.com/   https://github.com/x64dbg/x64dbg | 2022-09-25_14-55 | 2022-09-25 |
+|  x|OllyDbg| https://www.ollydbg.de/ | - | 1.10 | 
+|  x|ILSpy| https://github.com/icsharpcode/ILSpy/ | 8.0 Preview 3 | 2022-12-05 |
 | 40|SQLDeveloper| https://www.oracle.com/jp/tools/downloads/sqldev-downloads.html | 21.2.1.204.1703 | 2021-08-11 |
 | 41|DBeaver| https://dbeaver.io/   https://github.com/dbeaver/dbeaver/releases/ | 22.1.4 | 2022-08-08 |
 | 42|SQLite| https://www.sqlite.org/ | 3.39.2 | 2022-07-21 |
@@ -63,6 +65,7 @@ Last Edit 2022/11/23(TWED) 18:00 JST(+9)
 | 54|CDIR| https://www.cyberdefense.jp/products/cdir.html | 1.3.5 | 2020-10-05 |
 | 55|WinPrefetchView| https://www.nirsoft.net/utils/win_prefetch_view.html | 1.37 | 2021-10-27 |
 | 56|Windows Registry Recovery| https://www.mitec.cz/wrr.html | 3.1.0 | 2021-02-16 |
+|  x|Registry Explorer | https://ericzimmerman.github.io/ | - | - |
 | 57|GPG4win| https://www.gpg4win.org/ | 4.0.4 | 2022-10-17 |
 | 58|GnuPG| https://gnupg.org/ | 2.3.8 | 2022-10-13 |
 | 59|CyberChef| https://gchq.github.io/CyberChef/   https://github.com/gchq/CyberChef/ | 9.46.0 | 2022-07-09 |
