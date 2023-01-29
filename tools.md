@@ -82,7 +82,8 @@ Last Edit 2022/11/23(TWED) 18:00 JST(+9)
 | 70|PDF-XChange Editor| https://www.tracker-software.com/product/downloads/ | 9.3.361.0 | 2022-04-13 |
 | 71|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ | 22.1.20142.0 | 2022-06-05 |
 | 72|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 2.19.1 | 2022-08-19 |
-|  x|Fiddler| https://www.telerik.com/fiddler| | - | - |Web debugging proxy|
+|  x|Fiddler| https://www.telerik.com/fiddler/ | - | - |Web debugging proxy|
+|  x|DiskGenius| https://www.diskgenius.com/ | - | - |Partition Manager / Disk Utilities |
 | 73|Metasploit| https://metasploit.com/   https://github.com/rapid7/metasploit-framework/ | 6.2.6+20220707153403 | 2022-07-07 |
 | 74|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
 | 75|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2022.6.1 | 2022-06-23 |
