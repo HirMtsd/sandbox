@@ -1,16 +1,15 @@
-https://www.google.com
+検索エンジン
 
-https://www.yahoo.co.jp
+| No| URL | Country | Remarks |
+|--:|:--  |:--      |:--      |
+|  1| https://www.google.com/  | USA    | Google
+|  2| https://www.yahoo.co.jp/ | Japan  |
+|  3| https://www.bing.com/    | USA    | Microsoft
+|  4| https://duckduckgo.com/  | USA    | 
+|  5| https://www.baidu.com/   | Cina   | 百度
+|  6| https://yandex.com/      | Russia |
 
-https://www.bing.com
-
-https://duckduckgo.com
-
-https://www.baidu.com
-
-https://yandex.com
-
-
+https://ja.wikipedia.org/wiki/%E6%A4%9C%E7%B4%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%81%AE%E4%B8%80%E8%A6%A7
 
 1. Fofa.so
 2. Wigle.net
