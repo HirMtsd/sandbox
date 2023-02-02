@@ -1,5 +1,5 @@
 <!-- since 2022/04/12 -->
-Last Edit 2022/11/23(TWED) 18:00 JST(+9)
+Last Edit 2023/02/03(FRI) 01:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|Purpose and Use|
 |--:|:--|:--|:--|:--|:--|
@@ -78,18 +78,18 @@ Last Edit 2022/11/23(TWED) 18:00 JST(+9)
 | 66|OLETOOLS| https://github.com/decalage2/oletools/   https://pypi.org/project/oletools/ | 0.60.1 | 2022-05-09 |
 | 67|ExifTool| https://exiftool.org/   https://github.com/exiftool/exiftool/ | 12.44 | 2022-07-21 |
 | 68|QPDF| https://qpdf.sourceforge.io/   https://github.com/qpdf/qpdf | 10.6.3 | 2022-03-12 |
-| 69|LibraOffice| https://www.libreoffice.org/ | 7.4 | 2022-08-12 |
+| 69|LibraOffice| https://www.libreoffice.org/ | 7.5 | 2023-01-27 |
 | 70|PDF-XChange Editor| https://www.tracker-software.com/product/downloads/ | 9.3.361.0 | 2022-04-13 |
 | 71|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ | 22.1.20142.0 | 2022-06-05 |
-| 72|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 2.19.1 | 2022-08-19 |
+| 72|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 3.0.1 | 2023-01-26 |
 |  x|Fiddler| https://www.telerik.com/fiddler/ | - | - |Web debugging proxy|
 |  x|DiskGenius| https://www.diskgenius.com/ | - | - |Partition Manager / Disk Utilities |
-| 73|Metasploit| https://metasploit.com/   https://github.com/rapid7/metasploit-framework/ | 6.2.6+20220707153403 | 2022-07-07 |
-| 74|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.11.1 | 2021-12-11 |
-| 75|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2022.6.1 | 2022-06-23 |
+| 73|Metasploit| https://metasploit.com/   https://windows.metasploit.com/   https://github.com/rapid7/metasploit-framework/ | 6.3.1+20230201163410 | 2023-02-01 |
+| 74|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.12.0 | 2022-10-27 |
+| 75|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2022.12.7 | 2023-01-26 |
 | 76|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
-| 77|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.3 | 2022-07-10 |
-| 78|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.6.8 | 2022-08-04 |
+| 77|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.6 | 2023-02-01 |
+| 78|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.7.2 | 2023-02-01 |
 | xx|Microsoft Visual C++再頒布可能パッケージ| https://docs.microsoft.com/ja-jp/cpp/windows/latest-supported-vc-redist | 2015-2022 | |
 | xx|Microsoft .NET Framework| https://dotnet.microsoft.com/ja-jp/download/dotnet-framework | 4.8 | |
 
