@@ -83,7 +83,7 @@ Last Edit 2023/02/03(FRI) 01:00 JST(+9)
 | 71|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ | 22.1.20142.0 | 2022-06-05 |
 | 72|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 3.0.1 | 2023-01-26 |
 |  x|Fiddler| https://www.telerik.com/fiddler/ | - | - |Web debugging proxy|
-|  x|GlassWire| https://www.glasswire.com/|3.2|2023/01/31|
+|  x|GlassWire| https://www.glasswire.com/| 3.2.490 | 2023-01-31 | Traffic Monitor and Firewall |
 |  x|DiskGenius| https://www.diskgenius.com/ | - | - |Partition Manager / Disk Utilities |
 | 73|Metasploit| https://metasploit.com/   https://windows.metasploit.com/   https://github.com/rapid7/metasploit-framework/ | 6.3.1+20230201163410 | 2023-02-01 |
 | 74|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.12.0 | 2022-10-27 |
