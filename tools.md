@@ -46,8 +46,9 @@ Last Edit 2023/02/03(FRI) 01:00 JST(+9)
 | 37|WinDbg| https://developer.microsoft.com/ja-jp/windows/downloads/windows-sdk/ | Windows11SDK(10.0.22000) | 2021-10-04 |
 | 38|dnSpy| https://github.com/dnSpy/dnSpy | 6.1.8 | 2020-12-08 |
 | 39|x64dbg| https://x64dbg.com/   https://github.com/x64dbg/x64dbg | 2022-09-25_14-55 | 2022-09-25 |
-|  x|OllyDbg| https://www.ollydbg.de/ | - | 1.10 | 
+|  x|OllyDbg| https://www.ollydbg.de/ | 1.10 | - | 
 |  x|ILSpy| https://github.com/icsharpcode/ILSpy/ | 8.0 Preview 3 | 2022-12-05 |
+|  x|JADX| https://github.com/skylot/jadx/ | 1.4.5 | 2022-10-21 |Java decompiler
 | 40|SQLDeveloper| https://www.oracle.com/jp/tools/downloads/sqldev-downloads.html | 21.2.1.204.1703 | 2021-08-11 |
 | 41|DBeaver| https://dbeaver.io/   https://github.com/dbeaver/dbeaver/releases/ | 22.1.4 | 2022-08-08 |
 | 42|SQLite| https://www.sqlite.org/ | 3.39.2 | 2022-07-21 |
