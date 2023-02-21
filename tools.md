@@ -48,7 +48,7 @@ Last Edit 2023/02/03(FRI) 01:00 JST(+9)
 | 39|x64dbg| https://x64dbg.com/   https://github.com/x64dbg/x64dbg | 2022-09-25_14-55 | 2022-09-25 |
 |  x|OllyDbg| https://www.ollydbg.de/ | 1.10 | - | 
 |  x|ILSpy| https://github.com/icsharpcode/ILSpy/ | 8.0 Preview 3 | 2022-12-05 |
-|  x|JADX| https://github.com/skylot/jadx/ | 1.4.5 | 2022-10-21 |Java decompiler
+|  x|JADX| https://github.com/skylot/jadx/ | 1.4.6 | 2023-02-20 |Java decompiler
 | 40|SQLDeveloper| https://www.oracle.com/jp/tools/downloads/sqldev-downloads.html | 21.2.1.204.1703 | 2021-08-11 |
 | 41|DBeaver| https://dbeaver.io/   https://github.com/dbeaver/dbeaver/releases/ | 22.1.4 | 2022-08-08 |
 | 42|SQLite| https://www.sqlite.org/ | 3.39.2 | 2022-07-21 |
@@ -59,7 +59,7 @@ Last Edit 2023/02/03(FRI) 01:00 JST(+9)
 | 47|Splunk| https://www.splunk.com/ | 8.2.6 | 2022-04-05 |
 | 48|procDOT| https://www.procdot.com/ | 1.22 | 2018-08-28 |
 | 49|FTKImager| https://www.exterro.com/ | 4.7.1| 2022-01-21 |
-| 50|Volatility| https://www.volatilityfoundation.org/ | 2.6 3v1.0.0| 2016-12- 2020-02- |
+| 50|Volatility| https://www.volatilityfoundation.org/   https://github.com/volatilityfoundation/volatility   https://github.com/volatilityfoundation/volatility3 | 2.6.1 (3)2.4.0 | 2018-12-19 2022-12-15 |
 | 51|WinPmem| https://winpmem.velocidex.com/ | 4.0 RC2 | 2020-10-12 |
 | 52|OSFMount| https://www.osforensics.com/tools/mount-disk-images.html | 3.1.1000 | 2021-03-05 |
 | 53|Ext2Fsd| https://sourceforge.net/projects/ext2fsd/files/ | 0.69 | 2016-07-15 |
