@@ -12,15 +12,15 @@ Last Edit 2023/02/24(FRI) 14:00 JST(+9)
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.2 | 2022-12-03 | Text Editor |
 |  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
 |  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.07 | 2023-01-04 | File Type Detection |
-|  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.8.8 | 2022-05-17 |
+|  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.9.17 | 2022-11-15 |
 |  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.39.2 | 2023-02-06 | Distributed version control |
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 | SSH Client |
 | 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.78 | 2022-10-29 | SSH Client |
-| 12|WinSCP| https://winscp.net/ | 5.21 | 2022-06-15 | FTP Client |
+| 12|WinSCP| https://winscp.net/   https://winscp.net/eng/downloads.php | 5.21.7 | 2023-01-23 | FTP Client |
 |  x|FileZilla| https://filezilla-project.org/ | 3.62.2 | 2022-11-22 | FTP Client |
-| 13|WinMerge| https://winmerge.org/ | 2.16.24 | 2022-10-27 | File Difference display |
-| 14|GrepWin| https://tools.stefankueng.com/grepWin.html   https://github.com/stefankueng/grepWin/releases | 2.0.11 | 2022-09-26 |
-| 15|Windows Sysinternals| https://docs.microsoft.com/en-us/sysinternals/   https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2022-11-11 |
+| 13|WinMerge| https://winmerge.org/ | 2.16.28 | 2023-02-15 | File Difference display |
+| 14|GrepWin| https://tools.stefankueng.com/grepWin.html   https://github.com/stefankueng/grepWin/releases | 2.0.13 | 2023-01-20 |
+| 15|Windows Sysinternals| https://docs.microsoft.com/en-us/sysinternals/   https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2022-12-12 |
 | 16|Python| https://www.python.org/ | 3.9.15 3.10.8 3.11.0 | 2022-10-11 2022-10-11 2022-10-24 | Programing Language |
 | 17|Java| https://openjdk.java.net/   https://www.oracle.com/java/technologies/downloads/ | 17.0.5  19.0.1 | 2022-07-19  2022-09-20 | Programing Language |
 | 18|Ruby| https://www.ruby-lang.org/   https://rubyinstaller.org/ | 3.1.2 | 2022-04-20 | Programing Language |
