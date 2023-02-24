@@ -1,5 +1,5 @@
 <!-- since 2022/04/12 -->
-Last Edit 2023/02/03(FRI) 01:00 JST(+9)
+Last Edit 2023/02/24(FRI) 14:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|Purpose and Use|
 |--:|:--|:--|:--|:--|:--|
@@ -13,7 +13,7 @@ Last Edit 2023/02/03(FRI) 01:00 JST(+9)
 |  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
 |  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.07 | 2023-01-04 | File Type Detection |
 |  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.8.8 | 2022-05-17 |
-|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.38.1 | 2022-10-18 | Distributed version control |
+|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.39.2 | 2023-02-06 | Distributed version control |
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 | SSH Client |
 | 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.78 | 2022-10-29 | SSH Client |
 | 12|WinSCP| https://winscp.net/ | 5.21 | 2022-06-15 | FTP Client |
