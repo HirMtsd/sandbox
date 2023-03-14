@@ -1,5 +1,5 @@
 <!-- since 2022/04/12 -->
-Last Edit 2023/02/24(FRI) 14:00 JST(+9)
+Last Edit 2023/03/14(TUE) 14:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|Purpose and Use|
 |--:|:--|:--|:--|:--|:--|
@@ -92,6 +92,7 @@ Last Edit 2023/02/24(FRI) 14:00 JST(+9)
 | 76|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
 | 77|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.6 | 2023-02-01 |
 | 78|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.7.2 | 2023-02-01 |
+| 79|Sonic Visualiser| https://www.sonicvisualiser.org/ | 4.5.1 | 2022-12-08 | Visualisation, analysis, and annotation of music audio recordings |
 | xx|Microsoft Visual C++再頒布可能パッケージ| https://docs.microsoft.com/ja-jp/cpp/windows/latest-supported-vc-redist | 2015-2022 | |
 | xx|Microsoft .NET Framework| https://dotnet.microsoft.com/ja-jp/download/dotnet-framework | 4.8 | |
 
