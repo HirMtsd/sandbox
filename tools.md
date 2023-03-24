@@ -93,6 +93,7 @@ Last Edit 2023/03/14(TUE) 14:00 JST(+9)
 | 77|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.6 | 2023-02-01 |
 | 78|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.7.2 | 2023-02-01 |
 | 79|Sonic Visualiser| https://www.sonicvisualiser.org/ | 4.5.1 | 2022-12-08 | Visualisation, analysis, and annotation of music audio recordings |
+|  x|Audacity | https://www.audacityteam.org/ https://github.com/audacity/audacity/ | 3.2.5 | 2023-02-05 | Free, open source, multi-track audio editor and recorder |
 | xx|Microsoft Visual C++再頒布可能パッケージ| https://docs.microsoft.com/ja-jp/cpp/windows/latest-supported-vc-redist | 2015-2022 | |
 | xx|Microsoft .NET Framework| https://dotnet.microsoft.com/ja-jp/download/dotnet-framework | 4.8 | |
 
