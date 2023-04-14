@@ -1,4 +1,6 @@
 
+以下のツールの解説
+
 |No |Name|Ver|Date|Document URL|Source URL|Python package URL|
 |--:|:-- |:--|:-- |:--         |:--       |:--|
 |  1|openpyxl   |3.0.10 |2022/05/20 |https://openpyxl.readthedocs.io/en/stable/ |https://foss.heptapod.net/openpyxl/openpyxl |https://pypi.org/project/openpyxl/ |
@@ -18,6 +20,7 @@
 | 15|Graphviz   |0.20.1 |2022/07/23 |https://graphviz.readthedocs.io/en/stable/ https://www.graphviz.org/ | https://github.com/xflr6/graphviz/ https://gitlab.com/graphviz/graphviz/ | https://gitlab.com/graphviz/graphviz/ |
 | 16|ssdeep     |2.14.1 |2017/05/07 |https://ssdeep-project.github.io/ssdeep|2.14.1|||
 
+脆弱性関係ツールの整理
 
 |No |Name|Ver|Date|URL|Remarks|
 |--:|:-- |:--|:-- |:--       |:--|
@@ -34,9 +37,9 @@
 
 
 
-SQLite
+SQLiteの解説
 
-LATEX
+LATEXとpandoc
 
 Java install
 https://nowokay.hatenablog.com/entry/2023/01/12/211150
@@ -60,3 +63,5 @@ Sigmaルールリポジトリ例
 
 Test
 https://twitter.com/manatsuminori/status/1401151591177097217
+
+gitマニュアル
