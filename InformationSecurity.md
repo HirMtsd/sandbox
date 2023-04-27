@@ -5,7 +5,7 @@
 |--:|:--|:--|
 |  1|https://www.nisc.go.jp/               |内閣サイバーセキュリティセンター(NISC)                   |
 |  2|https://www.ipa.go.jp/                |独立行政法人 情報処理推進機構(IPA)                       |
-|  3|https://www.npa.go.jp/cyberpolice/    |警察庁(NPA)                                              |
+|  3|https://www.npa.go.jp/bureau/cyber/   |警察庁(NPA) サイバー警察局                               |
 |  4|https://www.nict.go.jp/               |国立研究開発法人 情報通信研究機構(NICT)                  |
 |  5|https://blogs.jpcert.or.jp/ja/        |一般社団法人 JPCERT コーディネーションセンター(JPCERT/CC)|
 |  6|https://blog.nic.ad.jp/               |一般社団法人 日本ネットワークインフォメーションセンター(JPNIC)| 
