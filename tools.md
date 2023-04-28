@@ -13,7 +13,7 @@ Last Edit 2023/04/12(WED) 11:00 JST(+9)
 |  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
 |  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.07 | 2023-01-04 | File Type Detection |
 |  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.9.17 | 2022-11-15 |
-|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.40.0 | 2023-03-12| Distributed version control |
+|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.40.1 | 2023-04-17 | Distributed version control |
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 | SSH Client |
 | 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.78 | 2022-10-29 | SSH Client |
 | 12|WinSCP| https://winscp.net/   https://winscp.net/eng/downloads.php | 5.21.8 | 2023-04-11 | FTP Client |
