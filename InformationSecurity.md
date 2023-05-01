@@ -35,7 +35,7 @@
 | 16|https://www.proofpoint.com/jp/blog          |ProofPoint                |プルーフポイント|
 | 17|https://www.sophos.com/ja-jp/labs.aspx      |Sophos                    |ソフォス                |
 | 18|https://www.crowdstrike.jp/resources/       |CrowdStrike               |クラウドストライク      |
-| 19|https://www.carbonblack.com/blog/           |CarbonBlack(VMware)       |カーボンブラック       |
+| 19|https://blogs.vmware.com/security/          |VMware(CarbonBlack)       |旧カーボンブラック       |
 | 20|https://www.tripwire.com/state-of-security/ |Tripwire                  |トリップワイヤー       |
 
 ## 注意喚起情報
