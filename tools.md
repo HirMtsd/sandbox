@@ -16,6 +16,7 @@ Last Edit 2023/04/12(WED) 11:00 JST(+9)
 |  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.40.1 | 2023-04-17 | Distributed version control |
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 | SSH Client |
 | 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.78 | 2022-10-29 | SSH Client |
+|  x|OpenSSH| https://github.com/PowerShell/Win32-OpenSSH/releases | v9.2.2.0p1-Beta | 2023-04-18 | SSH CUI Client | 
 | 12|WinSCP| https://winscp.net/   https://winscp.net/eng/downloads.php | 5.21.8 | 2023-04-11 | FTP Client |
 |  x|FileZilla| https://filezilla-project.org/ | 3.63.2.1 | 2023-03-03 | FTP Client |
 | 13|WinMerge| https://winmerge.org/ | 2.16.28 | 2023-02-15 | File Difference display |
