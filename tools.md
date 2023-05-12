@@ -68,7 +68,7 @@ Last Edit 2023/04/12(WED) 11:00 JST(+9)
 | 55|WinPrefetchView| https://www.nirsoft.net/utils/win_prefetch_view.html | 1.37 | 2021-10-27 |
 | 56|Windows Registry Recovery| https://www.mitec.cz/wrr.html | 3.1.0 | 2021-02-16 |
 |  x|Registry Explorer | https://ericzimmerman.github.io/ | - | - |
-| 57|GPG4win| https://www.gpg4win.org/ | 4.0.4 | 2022-10-17 |
+| 57|GPG4win| https://www.gpg4win.org/ | 4.1.0 | 2022-12-20 |
 | 58|GnuPG| https://gnupg.org/ | 2.3.8 | 2022-10-13 |
 | 59|CyberChef| https://gchq.github.io/CyberChef/   https://github.com/gchq/CyberChef/ | 10.4.0 | 2023-03-25 |
 | 60|PDF Stream Dumper| http://sandsprite.com/tools.php | 0.9.624 | 2010-07-21 |
