@@ -90,5 +90,15 @@ https://qiita.com/kobori_akira/items/aa42790354654debb655
 https://wonderwall.hatenablog.com/entry/2017/09/07/211000
 
 
+java
+http://jinsei-kouhan.blogspot.com/2013/12/java.html?m=1
+
+https://pleiades.io/help/idea/working-with-projects.html
+
+android
+http://www.code-magagine.com/?p=509
+
+
+
 フロントエンドテスト
 https://zenn.dev/silverbirder/articles/c3de04c9e6dd58
