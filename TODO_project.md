@@ -74,3 +74,21 @@ https://qiita.com/uniTM/items/324883808a62c6938ac0
 マジックナンバー (フォーマット識別子)
 https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC_(%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E8%AD%98%E5%88%A5%E5%AD%90)
 https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88
+
+
+pythonディレクトリ
+https://rinatz.github.io/python-book/ch04-07-project-structures/
+
+https://qiita.com/c60evaporator/items/b6a7394231d1e768ce64
+
+https://qiita.com/flcn-x/items/c866eec8824a3cd70fa8
+
+https://www.google.com/amp/s/resanaplaza.com/2021/07/17/%25E3%2580%2590%25E5%259B%25B3%25E3%2581%25A7%25E8%25A7%25A3%25E8%25AA%25AC%25E3%2580%2591python-%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E6%258E%25A8%25E5%25A5%25A8%25E3%2581%25AE%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AB%25E3%2583%2580/%3famp=1
+
+https://qiita.com/kobori_akira/items/aa42790354654debb655
+
+https://wonderwall.hatenablog.com/entry/2017/09/07/211000
+
+
+Gitコミットメッセージ
+https://qiita.com/muranakar/items/20a7927ffa63a5ca226a
