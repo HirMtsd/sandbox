@@ -70,6 +70,12 @@ gitマニュアル
 http://www.ic.daito.ac.jp/~mizutani/python/binary_tree.html
 https://qiita.com/uniTM/items/324883808a62c6938ac0
 
+SMTソルバ (z3py) 入門
+https://zenn.dev/ochamikan/articles/42ef29b944ed57
+https://wiki.mma.club.uec.ac.jp/CTF/Toolkit/z3py
+https://qiita.com/inagaki169/items/de8c53402f4998177dfd
+
+
 
 マジックナンバー (フォーマット識別子)
 https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC_(%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E8%AD%98%E5%88%A5%E5%AD%90)
