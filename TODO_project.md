@@ -65,3 +65,12 @@ Test
 https://twitter.com/manatsuminori/status/1401151591177097217
 
 gitマニュアル
+
+二分木(binary tree)
+http://www.ic.daito.ac.jp/~mizutani/python/binary_tree.html
+https://qiita.com/uniTM/items/324883808a62c6938ac0
+
+
+マジックナンバー (フォーマット識別子)
+https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC_(%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E8%AD%98%E5%88%A5%E5%AD%90)
+https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88
