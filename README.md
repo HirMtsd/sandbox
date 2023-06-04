@@ -1,7 +1,7 @@
 # sandbox
 練習用
 
-- [情報セキュリティ](./InformationSecurity.md)
+- [情報セキュリティ](https://github.com/HirMtsd/CyberSecInfo/blob/main/SecInfo.md)
 - [有用WEBサイト](./Site.md)
 - [学習サイト](./TrainingSite.md)
 - [Linuxディストリビューション](./linux.md)
