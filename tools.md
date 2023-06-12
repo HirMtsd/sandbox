@@ -1,5 +1,5 @@
 <!-- since 2022/04/12 -->
-Last Edit 2023/04/12(WED) 11:00 JST(+9)
+Last Edit 2023/06/12(MON) 15:30 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|Purpose and Use|
 |--:|:--|:--|:--|:--|:--|
@@ -13,16 +13,16 @@ Last Edit 2023/04/12(WED) 11:00 JST(+9)
 |  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
 |  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.07 | 2023-01-04 | File Type Detection |
 |  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.9.17 | 2022-11-15 |
-|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.40.1 | 2023-04-17 | Distributed version control |
+|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.41.0 | 2023-06-01 | Distributed version control |
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 | SSH Client |
 | 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.78 | 2022-10-29 | SSH Client |
 |  x|OpenSSH| https://github.com/PowerShell/Win32-OpenSSH/releases | v9.2.2.0p1-Beta | 2023-04-18 | SSH CUI Client | 
-| 12|WinSCP| https://winscp.net/   https://winscp.net/eng/downloads.php | 5.21.8 | 2023-04-11 | FTP Client |
-|  x|FileZilla| https://filezilla-project.org/ | 3.63.2.1 | 2023-03-03 | FTP Client |
-| 13|WinMerge| https://winmerge.org/ | 2.16.28 | 2023-02-15 | File Difference display |
-| 14|GrepWin| https://tools.stefankueng.com/grepWin.html   https://github.com/stefankueng/grepWin/releases | 2.0.13 | 2023-01-20 |
-| 15|Windows Sysinternals| https://docs.microsoft.com/en-us/sysinternals/   https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2023-04-11 |
-| 16|Python| https://www.python.org/ | 3.10.11 3.11.3 | 2023-04-05 2023-04-05 | Programing Language |
+| 12|WinSCP| https://winscp.net/   https://winscp.net/eng/downloads.php | 6.1 | 2023-05-23 | FTP Client |
+|  x|FileZilla| https://filezilla-project.org/ | 3.64.0 | 2023-03-07 | FTP Client |
+| 13|WinMerge| https://winmerge.org/ | 2.16.30 | 2023-04-27 | File Difference display |
+| 14|GrepWin| https://tools.stefankueng.com/grepWin.html   https://github.com/stefankueng/grepWin/releases | 2.0.15 | 2023-06-10 |
+| 15|Windows SysInternals| https://docs.microsoft.com/en-us/sysinternals/   https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2023-04-11 |
+| 16|Python| https://www.python.org/ | 3.10.11 3.11.4 | 2023-04-05 2023-06-06 | Programing Language |
 | 17|Java| https://openjdk.java.net/   https://www.oracle.com/java/technologies/downloads/ | 17.0.6  20.0.0 | 2023-01-17  2023-03-21 | Programing Language |
 | 18|Ruby| https://www.ruby-lang.org/   https://rubyinstaller.org/ | 3.1.2 | 2022-04-20 | Programing Language |
 | 19|Perl| https://strawberryperl.com/ | 5.32.1.1 | 2021-01-24| Programing Language |
