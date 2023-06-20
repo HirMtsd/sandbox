@@ -28,6 +28,8 @@
 |  x| | https://ocwx.ocw.u-tokyo.ac.jp/course_11408/ | 東京大学 2018年度開講 統計データ解析 Ⅱ |
 |  x| | https://ocwx.ocw.u-tokyo.ac.jp/course_11409/ | 東京大学 2018年度開講 コンピュータシステム概論 |
 |  x| SQLab | https://sqlab.net/ |
+|  x| | https://speakerdeck.com/recruitengineers/browser-2022    | Recruit browser |
+|  x| | https://speakerdeck.com/recruitengineers/javascript-2022 | Recruit javascript |
 → Pentester Lab
 → tcm-security
 → Vulnhub
