@@ -12,7 +12,7 @@ Last Edit 2023/06/12(MON) 15:30 JST(+9)
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.2 | 2022-12-03 | Text Editor |
 |  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
 |   |Binary Editor BZ| https://gitlab.com/devill.tamachan/binaryeditorbz/  | 1.9.8.7 | 2022-05-08 | Binary Editor |
-|   |Stirling| https://web.archive.org/web/20001216014300if_/http://www2c.airnet.ne.jp/dds2/software.html | 1.31 | 1999-06-23 | Binary Editor |
+|   |Stirling| https://web.archive.org/web/20001216014300if_/http://www2c.airnet.ne.jp/dds2/software.html https://www.vector.co.jp/soft/dl/win95/util/se079072.html | 1.31 | 1999-06-23 | Binary Editor |
 |  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.07 | 2023-01-04 | File Type Detection |
 |  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.9.17 | 2022-11-15 |
 |  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.41.0 | 2023-06-01 | Distributed version control |
