@@ -1,5 +1,5 @@
 <!-- since 2022/04/12 -->
-Last Edit 2023/06/12(MON) 15:30 JST(+9)
+Last Edit 2023/07/26(WED) 19:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|Purpose and Use|
 |--:|:--|:--|:--|:--|:--|
@@ -88,15 +88,15 @@ Last Edit 2023/06/12(MON) 15:30 JST(+9)
 | 72|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 3.0.1 | 2023-01-26 |
 |  x|Fiddler| https://www.telerik.com/fiddler/ | - | - |Web debugging proxy|
 |  x|GlassWire| https://www.glasswire.com/| 3.2.490 | 2023-01-31 | Traffic Monitor and Firewall |
-|  x|DiskGenius| https://www.diskgenius.com/ | - | - |Partition Manager / Disk Utilities |
-| 73|Metasploit| https://metasploit.com/   https://windows.metasploit.com/   https://github.com/rapid7/metasploit-framework/ | 6.3.1+20230201163410 | 2023-02-01 |
-| 74|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.12.0 | 2022-10-27 |
-| 75|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2022.12.7 | 2023-01-26 |
+|  x|DiskGenius| https://www.diskgenius.com/ | - | - | Partition Manager / Disk Utilities |
+| 73|Metasploit| https://metasploit.com/   https://windows.metasploit.com/   https://github.com/rapid7/metasploit-framework/ | 6.3.26 | 2023-07-21 |
+| 74|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.13.0 | 2023-07-12 |
+| 75|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2023.7.1 | 2023-07-25 |
 | 76|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
-| 77|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.6 | 2023-02-01 |
-| 78|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.7.2 | 2023-02-01 |
-| 79|Sonic Visualiser| https://www.sonicvisualiser.org/ | 4.5.1 | 2022-12-08 | Visualisation, analysis, and annotation of music audio recordings |
-|  x|Audacity | https://www.audacityteam.org/ https://github.com/audacity/audacity/ | 3.2.5 | 2023-02-05 | Free, open source, multi-track audio editor and recorder |
+| 77|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.7 | 2023-03-06 |
+| 78|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.7.7 | 2023-07-06 |
+| 79|Sonic Visualiser| https://www.sonicvisualiser.org/ | 4.5.2 | 2023-05-03 | Visualisation, analysis, and annotation of music audio recordings |
+|  x|Audacity | https://www.audacityteam.org/ https://github.com/audacity/audacity/ | 3.3.3 | 2023-06-09 | Free, open source, multi-track audio editor and recorder |
 | xx|Microsoft Visual C++再頒布可能パッケージ| https://docs.microsoft.com/ja-jp/cpp/windows/latest-supported-vc-redist | 2015-2022 | |
-| xx|Microsoft .NET Framework| https://dotnet.microsoft.com/ja-jp/download/dotnet-framework | 4.8 | |
+| xx|Microsoft .NET Framework| https://dotnet.microsoft.com/ja-jp/download/dotnet-framework | 4.8 | 2019-04-18 |
 
