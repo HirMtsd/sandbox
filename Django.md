@@ -7,3 +7,8 @@ https://docs.djangoproject.com/ja/4.2/
 
 https://buildmedia.readthedocs.org/media/pdf/django/4.2.x/django.pdf
 
+
+
+pip install autopep8
+pip install pylint
+pip install flake8
