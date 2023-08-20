@@ -22,3 +22,7 @@ https://qiita.com/shuntaro_tamura/items/e4e942e7186934fae5e7
 
 grepとsedとawkをおさらいしたので役に立ちそうなことをまとめた
 https://expajp-tech.hatenablog.com/entry/2021/05/23/161434
+
+【grep/sed/awkも】ざっくりわかるシェルスクリプト５
+https://suzukiiichiro.github.io/posts/2022-02-02-01-suzuki/
+
