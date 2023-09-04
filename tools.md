@@ -1,5 +1,5 @@
 <!-- since 2022/04/12 -->
-Last Edit 2023/07/26(WED) 19:00 JST(+9)
+Last Edit 2023/09/04(MON) 16:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|Purpose and Use|
 |--:|:--|:--|:--|:--|:--|
@@ -15,7 +15,7 @@ Last Edit 2023/07/26(WED) 19:00 JST(+9)
 |   |Stirling| https://web.archive.org/web/20001216014300if_/http://www2c.airnet.ne.jp/dds2/software.html https://www.vector.co.jp/soft/dl/win95/util/se079072.html | 1.31 | 1999-06-23 | Binary Editor |
 |  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.07 | 2023-01-04 | File Type Detection |
 |  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.9.17 | 2022-11-15 |
-|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.41.0 | 2023-06-01 | Distributed version control |
+|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.42.0.2 | 2023-08-30 | Distributed version control |
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 | SSH Client |
 | 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.78 | 2022-10-29 | SSH Client |
 |  x|OpenSSH| https://github.com/PowerShell/Win32-OpenSSH/releases | v9.2.2.0p1-Beta | 2023-04-18 | SSH CUI Client | 
