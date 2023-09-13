@@ -1,5 +1,7 @@
 
+
 以下のツールの解説
+→DocMng
 
 |No |Name|Ver|Date|Document URL|Source URL|Python package URL|
 |--:|:-- |:--|:-- |:--         |:--       |:--|
@@ -21,6 +23,7 @@
 | 16|ssdeep     |2.14.1 |2017/05/07 |https://ssdeep-project.github.io/ssdeep|2.14.1|||
 
 脆弱性関係ツールの整理
+→SECInfo
 
 |No |Name|Ver|Date|URL|Remarks|
 |--:|:-- |:--|:-- |:--       |:--|
@@ -38,11 +41,14 @@
 
 
 SQLiteの解説
+→Python?Development
 
 LATEXとpandoc
+→DocMng
 
 Java install
 https://nowokay.hatenablog.com/entry/2023/01/12/211150
+→Python?Development
 
 SBOM WorkShop
 https://github.com/ninoseki/jsac2023-sbom-workshop
@@ -70,7 +76,10 @@ gitマニュアル
 http://www.ic.daito.ac.jp/~mizutani/python/binary_tree.html
 https://qiita.com/uniTM/items/324883808a62c6938ac0
 
+
+
 SMTソルバ (z3py) 入門
+→CTF
 https://zenn.dev/ochamikan/articles/42ef29b944ed57
 https://wiki.mma.club.uec.ac.jp/CTF/Toolkit/z3py
 https://qiita.com/inagaki169/items/de8c53402f4998177dfd
