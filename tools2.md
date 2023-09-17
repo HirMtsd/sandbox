@@ -1,3 +1,5 @@
+<!-- 2021/09/17 -->
+
 |No|Name|URL|LatestVersion|LastUpdate| Remarks|
 |--:|:--|:--|:--|:--|:--|
 |  1| VLC | https://www.videolan.org/vlc/ | 3.0.17.4 | 2022-04-19 | Video Viewer |
@@ -11,10 +13,11 @@
 |   | VirtualBox | https://www.virtualbox.org/ | 6.1.38 | 2022-09-02 | Virtual Machine |
 |   | Tor Browser | https://www.torproject.org/   https://www.torproject.org/download/languages/ | 11.5.2 | 2022-08-29 | Privacy Browser |
 |  9|Fhex - A Full-Featured HexEditor| https://github.com/echo-devim/fhex | 3.0.0 | 2021-02-26 | Binary Editor |
+|  x| H2testw | https://www.heise.de/download/product/h2testw-50539 | 1.4 | | storage media checker |
 |  x| TeX Live on Windows (LaTeX) | https://tug.org/texlive/windows.html | | |
 |  x| DOSBox | https://www.dosbox.com/ | 0.74-3 | 2019-06-26 | 
 |  x| Recaf | https://www.coley.software/Recaf/    https://github.com/Col-E/Recaf | 2.21.13 | 2022-03-29 | Java Binary Code Editor |
-|  x| ffuf | https://github.com/ffuf/ffuf | 1.5.0 | 2022-05-19 |
+|  x| ffuf | https://github.com/ffuf/ffuf | 2.1.0 | 2023-09-16 | A fast web fuzzer |
 |  x| gobuster | https://github.com/OJ/gobuster/ | 3.1.0 | 2020-10-19 |
 |  x| Freeplane | https://sourceforge.net/projects/freeplane/files/ | 1.10.4 | 2022-09-10 | MindMap Tool (Java Application) |
 |  x| plantUML | https://plantuml.com/ja/   https://github.com/plantuml/plantuml   https://sourceforge.net/projects/plantuml/ | 1.2022.10 | 2022-09-28| Generate UML diagram from textual description (Java Application) |
