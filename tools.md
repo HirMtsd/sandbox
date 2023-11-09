@@ -37,8 +37,8 @@ Last Edit 2023/09/04(MON) 16:00 JST(+9)
 |  x|Aircrack-ng| https://www.aircrack-ng.org/ | 1.7 | 2022-05-10 | tools to assess WiFi network security |
 | 26|ApateDNS| https://fireeye.market/apps/211380   https://www.fireeye.jp/current-threats/freeware/apatedns.html | 1.0 | 2011-09-29 |
 | 27|BIND| https://www.isc.org/ | 9.16.33 | 2022-09 |
-| 28|GIMP| https://www.gimp.org/ | 2.10.34 | 2023-02-21 |
-| 29|InkScape| https://inkscape.org/ | 1.2.2 | 2022-12-09 |
+| 28|GIMP| https://www.gimp.org/ | 2.10.36 | 2023-11-07 |
+| 29|InkScape| https://inkscape.org/ | 1.3 | 2023-07-23 |
 | 30|Graphviz| https://graphviz.org/   https://gitlab.com/graphviz/graphviz/ | 8.0.2 | 2023-04-10 |
 | 31|Xn View MP| https://www.xnview.com/en/xnviewmp/ | 1.4.3 | 2023-02-26 |
 | 32|TweakPNG| http://entropymine.com/jason/tweakpng/ | 1.4.6 | 2014-09-07 |
