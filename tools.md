@@ -55,6 +55,7 @@ Last Edit 2023/09/04(MON) 16:00 JST(+9)
 | 40|SQLDeveloper| https://www.oracle.com/jp/tools/downloads/sqldev-downloads.html | 21.2.1.204.1703 | 2021-08-11 |
 | 41|DBeaver| https://dbeaver.io/   https://github.com/dbeaver/dbeaver/releases/ | 23.0.2 | 2023-04-10 |
 | 42|SQLite| https://www.sqlite.org/ | 3.41.2 | 2023-03-22 |
+|   |DB Browser for SQLite | https://sqlitebrowser.org/ | 3.12.2 | 2023-05-04 |
 | 43|MySQL| https://www.mysql.com/   https://dev.mysql.com/downloads/ | 8.0.29 | 2022-04-26 |
 | 44|PostgreSQL| https://www.postgresql.org/ | 14.4 | 2022-06-16 |
 | 45|Neo4j| https://neo4j.com/ | 1.4.15 | 2022-04-13 |
