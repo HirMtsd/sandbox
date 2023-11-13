@@ -14,6 +14,8 @@ Last Edit 2023/09/04(MON) 16:00 JST(+9)
 |   |Binary Editor BZ| https://gitlab.com/devill.tamachan/binaryeditorbz/  | 1.9.8.7 | 2022-05-08 | Binary Editor |
 |   |Stirling| https://web.archive.org/web/20001216014300if_/http://www2c.airnet.ne.jp/dds2/software.html https://www.vector.co.jp/soft/dl/win95/util/se079072.html | 1.31 | 1999-06-23 | Binary Editor |
 |  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.07 | 2023-01-04 | File Type Detection |
+|  x|PEiD| https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/PEiD-updated.shtml | 0.95 | 2008-11-06 | Detect packers, cryptors and compilers bundled withPE executables |
+|  x|UPX| https://upx.github.io/   https://github.com/upx/upx/ | 4.2.1 | 2023-11-01 | executable packer |
 |  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.9.17 | 2022-11-15 |
 |  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.42.0.2 | 2023-08-30 | Distributed version control |
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/ | 4.106 | 2021-06-05 | SSH Client |
@@ -22,6 +24,7 @@ Last Edit 2023/09/04(MON) 16:00 JST(+9)
 | 12|WinSCP| https://winscp.net/   https://winscp.net/eng/downloads.php | 6.1 | 2023-05-23 | FTP Client |
 |  x|FileZilla| https://filezilla-project.org/ | 3.64.0 | 2023-03-07 | FTP Client |
 | 13|WinMerge| https://winmerge.org/ | 2.16.30 | 2023-04-27 | File Difference display |
+|  x|BinDiff| https://www.zynamics.com/bindiff.html   https://github.com/google/bindiff | 8 | 2023-09-25 | Binary Diff | 
 | 14|GrepWin| https://tools.stefankueng.com/grepWin.html   https://github.com/stefankueng/grepWin/releases | 2.0.15 | 2023-06-10 |
 | 15|Windows SysInternals| https://docs.microsoft.com/en-us/sysinternals/   https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2023-04-11 |
 | 16|Python| https://www.python.org/ | 3.10.11 3.11.4 | 2023-04-05 2023-06-06 | Programing Language |
@@ -37,8 +40,8 @@ Last Edit 2023/09/04(MON) 16:00 JST(+9)
 |  x|Aircrack-ng| https://www.aircrack-ng.org/ | 1.7 | 2022-05-10 | tools to assess WiFi network security |
 | 26|ApateDNS| https://fireeye.market/apps/211380   https://www.fireeye.jp/current-threats/freeware/apatedns.html | 1.0 | 2011-09-29 |
 | 27|BIND| https://www.isc.org/ | 9.16.33 | 2022-09 |
-| 28|GIMP| https://www.gimp.org/ | 2.10.36 | 2023-11-07 |
-| 29|InkScape| https://inkscape.org/ | 1.3 | 2023-07-23 |
+| 28|GIMP| https://www.gimp.org/ | 2.10.36 | 2023-11-07 | GNU Image Manipulation Program |
+| 29|InkScape| https://inkscape.org/ | 1.3 | 2023-07-23 | vector graphics editor |
 | 30|Graphviz| https://graphviz.org/   https://gitlab.com/graphviz/graphviz/ | 8.0.2 | 2023-04-10 |
 | 31|Xn View MP| https://www.xnview.com/en/xnviewmp/ | 1.4.3 | 2023-02-26 |
 | 32|TweakPNG| http://entropymine.com/jason/tweakpng/ | 1.4.6 | 2014-09-07 |
@@ -51,7 +54,8 @@ Last Edit 2023/09/04(MON) 16:00 JST(+9)
 | 39|x64dbg| https://x64dbg.com/   https://github.com/x64dbg/x64dbg | 2022-09-25_14-55 | 2022-09-25 |
 |  x|OllyDbg| https://www.ollydbg.de/ | 1.10 | - | 
 |  x|ILSpy| https://github.com/icsharpcode/ILSpy/ | 8.0 Preview 3 | 2022-12-05 |
-|  x|JADX| https://github.com/skylot/jadx/ | 1.4.6 | 2023-02-20 |Java decompiler
+|  x|PE-bear| https://github.com/hasherezade/pe-bear | 0.6.6 | 2023-11-13 | Portable Executable reversing tool with a friendly GUI |
+|  x|JADX| https://github.com/skylot/jadx/ | 1.4.6 | 2023-02-20 |Java decompiler |
 | 40|SQLDeveloper| https://www.oracle.com/jp/tools/downloads/sqldev-downloads.html | 21.2.1.204.1703 | 2021-08-11 |
 | 41|DBeaver| https://dbeaver.io/   https://github.com/dbeaver/dbeaver/releases/ | 23.0.2 | 2023-04-10 |
 | 42|SQLite| https://www.sqlite.org/ | 3.41.2 | 2023-03-22 |
@@ -62,7 +66,9 @@ Last Edit 2023/09/04(MON) 16:00 JST(+9)
 | 46|LogParser| https://www.microsoft.com/ja-jp/download/details.aspx?id=24659 | 2.2 | 2021-02-03 |
 | 47|Splunk| https://www.splunk.com/ | 8.2.6 | 2022-04-05 |
 | 48|procDOT| https://www.procdot.com/ | 1.22 | 2018-08-28 |
-| 49|FTKImager| https://www.exterro.com/ | 4.7.1| 2022-01-21 |
+| 49|FTKImager| https://www.exterro.com/ | 4.7.1 | 2022-01-21 |
+|  x|Autopsy| https://www.autopsy.com/   https://github.com/sleuthkit/autopsy/releases/ | 4.21.0 | 2023-08-30 | Forengic Tool |
+|  x|The Sleuth Kit| https://www.sleuthkit.org/sleuthkit/ | 4.12.1 | 2023-08-29 |command line tools that allow you to investigate disk images |
 | 50|Volatility| https://www.volatilityfoundation.org/   https://github.com/volatilityfoundation/volatility   https://github.com/volatilityfoundation/volatility3 | 2.6.1 (3)2.4.0 | 2018-12-19 2022-12-15 |
 | 51|WinPmem| https://winpmem.velocidex.com/ | 4.0 RC2 | 2020-10-12 |
 | 52|OSFMount| https://www.osforensics.com/tools/mount-disk-images.html | 3.1.1000 | 2021-03-05 |
@@ -80,6 +86,7 @@ Last Edit 2023/09/04(MON) 16:00 JST(+9)
 | 63|pestudio| https://www.winitor.com/ | 9.32 | 2022-04-09 |
 | 64|PE-sieve| https://hshrzd.wordpress.com/pe-sieve/   https://github.com/hasherezade/pe-sieve/releases/ | 0.3.4 | 2022-02-11 |
 | 65|PEview| http://wjradburn.com/software/ | 0.9.9 | 2011-05-09 |
+|  x|PPEE| https://www.mzrst.com/ | 1.13.1 | 2023-11-10 | PE file Explorer for reversers, malware researchers |
 | 66|OLETOOLS| https://github.com/decalage2/oletools/   https://pypi.org/project/oletools/ | 0.60.1 | 2022-05-09 |
 | 67|ExifTool| https://exiftool.org/   https://github.com/exiftool/exiftool/ | 12.44 | 2022-07-21 |
 | 68|QPDF| https://qpdf.sourceforge.io/   https://github.com/qpdf/qpdf | 10.6.3 | 2022-03-12 |
@@ -87,7 +94,7 @@ Last Edit 2023/09/04(MON) 16:00 JST(+9)
 | 70|PDF-XChange Editor| https://www.tracker-software.com/product/downloads/ | 9.3.361.0 | 2022-04-13 |
 | 71|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ | 22.1.20142.0 | 2022-06-05 |
 | 72|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 3.0.1 | 2023-01-26 |
-|  x|Fiddler| https://www.telerik.com/fiddler/ | - | - |Web debugging proxy|
+|  x|Fiddler| https://www.telerik.com/fiddler/ | - | - | Web debugging proxy |
 |  x|GlassWire| https://www.glasswire.com/| 3.2.490 | 2023-01-31 | Traffic Monitor and Firewall |
 |  x|DiskGenius| https://www.diskgenius.com/ | - | - | Partition Manager / Disk Utilities |
 | 73|Metasploit| https://metasploit.com/   https://windows.metasploit.com/   https://github.com/rapid7/metasploit-framework/ | 6.3.26 | 2023-07-21 |
@@ -98,6 +105,10 @@ Last Edit 2023/09/04(MON) 16:00 JST(+9)
 | 78|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.7.7 | 2023-07-06 |
 | 79|Sonic Visualiser| https://www.sonicvisualiser.org/ | 4.5.2 | 2023-05-03 | Visualisation, analysis, and annotation of music audio recordings |
 |  x|Audacity | https://www.audacityteam.org/ https://github.com/audacity/audacity/ | 3.3.3 | 2023-06-09 | Free, open source, multi-track audio editor and recorder |
+| 80|John| https://www.openwall.com/john/   https://github.com/openwall/john | 1.9.0 | 2019-04-12 | password cracker |
+|  x|bkcrack| https://github.com/kimci86/bkcrack | 1.5.0 | 2022-07-08 | Zip password cracker |
+|  x|PikaZip| https://so-zou.jp/software/tool/security/pika-zip/   https://www.vector.co.jp/download/file/win95/util/fh445644.html | 1.17 | 2003-02-16 | Zip password cracker |
+| 81|SecLists| https://github.com/danielmiessler/SecLists | 2023.2 | 2023-05-16 | collection of multiple types of lists used during security assessments |
 | xx|Microsoft Visual C++再頒布可能パッケージ| https://docs.microsoft.com/ja-jp/cpp/windows/latest-supported-vc-redist | 2015-2022 | |
 | xx|Microsoft .NET Framework| https://dotnet.microsoft.com/ja-jp/download/dotnet-framework | 4.8 | 2019-04-18 |
 
