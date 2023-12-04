@@ -97,7 +97,7 @@ Last Edit 2023/12/04(MON) 16:00 JST(+9)
 |  x|Fiddler| https://www.telerik.com/fiddler/ | - | - | Web debugging proxy |
 |  x|GlassWire| https://www.glasswire.com/| 3.2.490 | 2023-01-31 | Traffic Monitor and Firewall |
 |  x|DiskGenius| https://www.diskgenius.com/ | - | - | Partition Manager / Disk Utilities |
-| 73|Metasploit| https://metasploit.com/   https://windows.metasploit.com/   https://github.com/rapid7/metasploit-framework/ | 6.3.45 | 2023-11-23 |
+| 73|Metasploit| https://metasploit.com/   https://windows.metasploit.com/   https://github.com/rapid7/metasploit-framework/ | 6.3.46 | 2023-12-01 |
 | 74|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.14.0 | 2023-10-13 |
 | 75|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2023.10.3.6 | 2023-11-20 |
 | 76|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
