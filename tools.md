@@ -35,7 +35,7 @@ Last Edit 2023/12/04(MON) 16:00 JST(+9)
 | 21|PyCharm| https://www.jetbrains.com/ja-jp/pycharm/ | 2022.2.2 | 2022-09-15 |
 | 22|VisuaslStudioCode| https://code.visualstudio.com/   https://github.com/microsoft/vscode/releases/ | 1.77.2 | 2023-04-12 |
 | 23|WireShark| https://wireshark.com/  https://wireshark.org/ | 4.0.4 | 2023-03-02 |
-| 24|NMap (Npcap)| https://nmap.org/   https://npcap.com/   https://github.com/nmap/npcap/ | 7.93 1.73 | 2021-09-01 2023-03-31 |
+| 24|NMap (Npcap)| https://nmap.org/   https://npcap.com/   https://github.com/nmap/npcap/ | 7.94 1.78 | 2023-05-19 2023-10-20 |
 | 25|WinDump (Win10Pcap)| https://www.winpcap.org/windump/   https://www.win10pcap.org/ja/ | 3.9.5 10.2 | 2006-12-06 2015-10-08 |
 |  x|Aircrack-ng| https://www.aircrack-ng.org/ | 1.7 | 2022-05-10 | tools to assess WiFi network security |
 | 26|ApateDNS| https://fireeye.market/apps/211380   https://www.fireeye.jp/current-threats/freeware/apatedns.html | 1.0 | 2011-09-29 |
