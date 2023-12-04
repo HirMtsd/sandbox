@@ -101,7 +101,7 @@ Last Edit 2023/12/04(MON) 16:00 JST(+9)
 | 74|OWASP ZAP| https://owasp.org/www-project-zap/   https://github.com/zaproxy/zaproxy/ | 2.14.0 | 2023-10-13 |
 | 75|Burp Suite| https://portswigger.net/burp/   https://portswigger.net/burp/communitydownload/ | 2023.10.3.6 | 2023-11-20 |
 | 76|Nikto| https://cirt.net/Nikto2/   https://github.com/sullo/nikto/ | - | - |
-| 77|Wapiti| https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.7 | 2023-03-06 |
+| 77|Wapiti| https://wapiti-scanner.github.io/   https://wapiti.sourceforge.io/   https://github.com/wapiti-scanner/wapiti/releases/   https://pypi.org/project/wapiti3/ | 3.1.7 | 2023-03-06 |
 | 78|SQLMap| https://sqlmap.org/   https://github.com/sqlmapproject/sqlmap/   https://pypi.org/project/sqlmap/ | 1.7.11 | 2023-11-13 |
 |  x|Open VAS| https://www.openvas.org/   https://github.com/greenbone/openvas-scanner/   https://greenbone.github.io/docs/latest/ | 22.7.9 | 2023-11-30 |
 |  x|VULS| https://vuls.biz/   https://github.com/future-architect/vuls | 0.24.6 | 12023-11-20 |
