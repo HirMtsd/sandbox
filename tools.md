@@ -91,6 +91,7 @@ Last Edit 2023/12/04(MON) 16:00 JST(+9)
 | 67|ExifTool| https://exiftool.org/   https://github.com/exiftool/exiftool/ | 12.44 | 2022-07-21 |
 | 68|QPDF| https://qpdf.sourceforge.io/   https://github.com/qpdf/qpdf | 10.6.3 | 2022-03-12 |
 | 69|LibraOffice| https://www.libreoffice.org/ | 7.5.2 | 2023-03-31 |
+|  x|pdf_as|http://uchijyu.s601.xrea.com/wordpress/pdf_as/| 1.33 | 2020-07-05 |
 | 70|PDF-XChange Editor| https://www.tracker-software.com/product/downloads/ | 9.3.361.0 | 2022-04-13 |
 | 71|Acrobat Reader DC| https://get.adobe.com/jp/reader/enterprise/ | 22.1.20142.0 | 2022-06-05 |
 | 72|Pandoc| https://pandoc.org/   https://github.com/jgm/pandoc/ | 3.0.1 | 2023-01-26 |
