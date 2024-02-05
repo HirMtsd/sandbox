@@ -21,11 +21,13 @@
 | 17| Hybrid Analysis    | https://www.hybrid-analysis.com/  |マルウェア解析サービス                        ||
 | 18| Joe Sandbox Cloud  | https://www.joesandbox.com/       |マルウェア解析サービス                        ||
 | 19| RiskIQ             | https://community.riskiq.com/     |DNSの過去情報(Passive DNS)                    ||
-| 20| SHODAN             | https://www.shodan.io/            |Internet Search Engine                        || 
-| 21| CENSYS             | https://censys.io/                |Internet Search Engine                        ||
-| 22| Aguse              | https://gw.aguse.jp/              |踏み台サーバ                                  |マルウェア調査で使用|
-| 23| URL haus           | https://urlhaus.abuse.ch/         |マルウェア配布用URLの情報共有サイト           |マルウェア調査で使用|
-| 24| Feodo Tracker      | https://feodotracker.abuse.ch/    |C2サーバの情報共有サイト                      |マルウェア調査で使用|
-| 25| Wayback Machine    | https://web.archive.org/          |Internet archive                              ||
-| 26| Let me google that for you| https://lmgtfy.app/        |「ググれ」の婉曲表現 ||
-| 27| ScamAdviser        | https://www.scamadviser.com/      |WEBサイトチェック  |安全性調査|　
+| 20| SecurityTrails     | https://securitytrails.com/       |DNSの過去歴の検索                             ||
+| 21| SHODAN             | https://www.shodan.io/            |Internet Search Engine                        || 
+| 22| CENSYS             | https://censys.io/                |Internet Search Engine                        ||
+| 23| Aguse              | https://gw.aguse.jp/              |踏み台サーバ                                  |マルウェア調査で使用|
+| 24| URL haus           | https://urlhaus.abuse.ch/         |マルウェア配布用URLの情報共有サイト           |マルウェア調査で使用|
+| 25| Feodo Tracker      | https://feodotracker.abuse.ch/    |C2サーバの情報共有サイト                      |マルウェア調査で使用|
+| 26| Wayback Machine    | https://web.archive.org/          |Internet archive                              ||
+| 27| Let me google that for you| https://lmgtfy.app/        |「ググれ」の婉曲表現 ||
+| 28| ScamAdviser        | https://www.scamadviser.com/      |WEBサイトチェック  |安全性調査|　
+
