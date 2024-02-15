@@ -26,5 +26,10 @@
 |  x| ssdeep | https://ssdeep-project.github.io/ssdeep/   https://github.com/ssdeep-project/ssdeep | 2.14.1 | 2017-11-07 | Fuzzy Hashing API |
 |  x| impfuzzy | https://github.com/JPCERTCC/impfuzzy/ https://pypi.org/project/pyimpfuzzy/ | 0.5 | 2018-05-15 | ssdeep wrapper | 
 
+|  x|ImHex   | https://github.com/WerWolv/ImHex/releases | 1.29.0 | 2023-05-21 | hex editor |
+|  x|XAMPP|https://www.apachefriends.org|8.2.12|2023-11-19|PHP development environment|
+
+
+
    
 https://joinmastodon.org/
