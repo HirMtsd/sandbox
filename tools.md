@@ -113,5 +113,7 @@ Last Edit 2023/12/04(MON) 16:00 JST(+9)
 |  x|PikaZip| https://so-zou.jp/software/tool/security/pika-zip/   https://www.vector.co.jp/download/file/win95/util/fh445644.html | 1.17 | 2003-02-16 | Zip password cracker |
 | 81|SecLists| https://github.com/danielmiessler/SecLists | 2023.2 | 2023-05-16 | collection of multiple types of lists used during security assessments |
 | xx|Microsoft Visual C++再頒布可能パッケージ| https://docs.microsoft.com/ja-jp/cpp/windows/latest-supported-vc-redist | 2015-2022 | |
-| xx|Microsoft .NET Framework| https://dotnet.microsoft.com/ja-jp/download/dotnet-framework | 4.8 | 2019-04-18 |
+| xx|Microsoft .NET Framework| https://dotnet.microsoft.com/ja-jp/download/dotnet-framework | 4.8 | 2019-04-18 ||
+| xx|Microsoft .NET          | https://dotnet.microsoft.com/ja-jp/download/dotnet           | 8.0.3 | 2024-03-14 ||
+| xx|Microsoft Bisual Studio | https://visualstudio.microsoft.com/ja/vs/community/          | 2022|            ||
 
