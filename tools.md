@@ -115,5 +115,5 @@ Last Edit 2023/12/04(MON) 16:00 JST(+9)
 | xx|Microsoft Visual C++再頒布可能パッケージ| https://docs.microsoft.com/ja-jp/cpp/windows/latest-supported-vc-redist | 2015-2022 | |
 | xx|Microsoft .NET Framework| https://dotnet.microsoft.com/ja-jp/download/dotnet-framework | 4.8 | 2019-04-18 ||
 | xx|Microsoft .NET          | https://dotnet.microsoft.com/ja-jp/download/dotnet           | 8.0.3 | 2024-03-14 ||
-| xx|Microsoft Bisual Studio | https://visualstudio.microsoft.com/ja/vs/community/          | 2022|            ||
+| xx|Microsoft Visual Studio | https://visualstudio.microsoft.com/ja/vs/community/          | 2022|            ||
 
