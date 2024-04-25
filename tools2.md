@@ -33,3 +33,12 @@
 
    
 https://joinmastodon.org/
+
+
+Jw_cad
+KiCad
+LTspice
+WaveSpectra
+
+
+https://hirokun.jp/av/wavespectra.html
