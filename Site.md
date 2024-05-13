@@ -4,6 +4,7 @@
 |--:|:--                 |:--                                |:--                                           |:--|
 |  1| Cyber Chef         | https://gchq.github.io/CyberChef/ |サイバーアーミーナイフ                        ||
 |  2| Hash Toolkit       | https://hashtoolkit.com/          |ハッシュ値から平文を得る                      ||
+|  x| CrackStation       | https://crackstation.net/         |                                            ||
 |  3| IP Info            | https://ipinfo.io/                |サーバの情報を返す                            |Network問題で使用|
 |  4| JPNIC              | https://www.nic.ad.jp/ja/         |IP Infoのうち、JPドメインに関するものの詳細   |解析で使用|
 |  5| CMAN               | https://www.cman.jp/network/      |Whoisの横断検索時に便利                       |解析で使用|
