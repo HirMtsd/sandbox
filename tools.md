@@ -13,9 +13,10 @@ Last Edit 2023/12/04(MON) 16:00 JST(+9)
 |  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
 |   |Binary Editor BZ| https://gitlab.com/devill.tamachan/binaryeditorbz/  | 1.9.8.7 | 2022-05-08 | Binary Editor |
 |   |Stirling| https://web.archive.org/web/20001216014300if_/http://www2c.airnet.ne.jp/dds2/software.html https://www.vector.co.jp/soft/dl/win95/util/se079072.html | 1.31 | 1999-06-23 | Binary Editor |
+|   |HekisaNyan| https://digitaltravesia.jp/usamimihurricane/webhelp/_RESOURCE/MenuItem/another/anotherHekisaNyan.html | 1.8.7.1 | 2024-xx-xx | Binary Editor |
 |  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.09 | 2023-12-29 | File Type Detection |
 |  x|PEiD| https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/PEiD-updated.shtml | 0.95 | 2008-11-06 | Detect packers, cryptors and compilers bundled withPE executables |
-|  x|UPX| https://upx.github.io/   https://github.com/upx/upx/ | 4.2.1 | 2023-11-01 | executable packer |
+|  x|UPX| https://upx.github.io/   https://github.com/upx/upx/ | 4.2.1 | 2023-11-01 | executable packer | 
 |  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.9.17 | 2022-11-15 |
 |  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.42.0.2 | 2023-08-30 | Distributed version control |
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/   https://teratermproject.github.io/ | 5.1 | 2023-12-19 | SSH Client |
