@@ -30,6 +30,7 @@
 |  x| SQLab | https://sqlab.net/ |
 |  x| | https://speakerdeck.com/recruitengineers/browser-2022    | Recruit browser |
 |  x| | https://speakerdeck.com/recruitengineers/javascript-2022 | Recruit javascript |
+|  x| | https://www.blockchain.t.u-tokyo.ac.jp/lecture | 東京大学 ブロックチェーン公開講座 |
 → Pentester Lab
 → tcm-security
 → Vulnhub
