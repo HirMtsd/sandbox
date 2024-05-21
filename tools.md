@@ -1,5 +1,5 @@
 <!-- since 2022/04/12 -->
-Last Edit 2023/12/04(MON) 16:00 JST(+9)
+Last Edit 2024/05/21(TUE) 16:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|Purpose and Use|
 |--:|:--|:--|:--|:--|:--|
@@ -18,7 +18,7 @@ Last Edit 2023/12/04(MON) 16:00 JST(+9)
 |  x|PEiD| https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/PEiD-updated.shtml | 0.95 | 2008-11-06 | Detect packers, cryptors and compilers bundled withPE executables |
 |  x|UPX| https://upx.github.io/   https://github.com/upx/upx/ | 4.2.1 | 2023-11-01 | executable packer | 
 |  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.9.17 | 2022-11-15 |
-|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.42.0.2 | 2023-08-30 | Distributed version control |
+|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.45.1 | 2024-04-29 | Distributed version control |
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/   https://teratermproject.github.io/ | 5.1 | 2023-12-19 | SSH Client |
 | 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.78 | 2022-10-29 | SSH Client |
 |  x|OpenSSH| https://github.com/PowerShell/Win32-OpenSSH/releases | v9.2.2.0p1-Beta | 2023-04-18 | SSH CUI Client | 
@@ -78,8 +78,8 @@ Last Edit 2023/12/04(MON) 16:00 JST(+9)
 | 55|WinPrefetchView| https://www.nirsoft.net/utils/win_prefetch_view.html | 1.37 | 2021-10-27 |
 | 56|Windows Registry Recovery| https://www.mitec.cz/wrr.html | 3.1.0 | 2021-02-16 |
 |  x|Registry Explorer | https://ericzimmerman.github.io/ | - | - |
-| 57|GPG4win| https://www.gpg4win.org/ | 4.1.0 | 2022-12-20 |
-| 58|GnuPG| https://gnupg.org/ | 2.4.1 | 2023-04-28 |
+| 57|GPG4win| https://www.gpg4win.org/ | 4.3.1 | 2024-03-11 |
+| 58|GnuPG| https://gnupg.org/ | 2.4.5 | 2024-03-12 |
 | 59|CyberChef| https://gchq.github.io/CyberChef/   https://github.com/gchq/CyberChef/ | 10.4.0 | 2023-03-25 |
 | 60|PDF Stream Dumper| http://sandsprite.com/tools.php | 0.9.624 | 2010-07-21 |
 | 61|EXE Explorer| https://www.mitec.cz/exe.html | 3.5.1 | 2022-01-17 |
