@@ -15,6 +15,7 @@
 | 11| | https://www.nic.ad.jp/ja/materials/iw/ondemand/ | Internet Week Basicオンデマンド(動画) |
 |  7| CyberDefenders | https://cyberdefenders.org/ | training platform for Security |
 |  8| Hack The Box | https://www.hackthebox.com/ | cybersecurity upskilling platform |
+|  x| HTB解説 | https://whitemarkn.com/penetrationtest/hackthebox/ ||
 |  x| Web Security Academy | https://portswigger.net/web-security | Free, online web security training |
 |  x| TryHackMe | https://tryhackme.com/   https://yawaraka-sec.com/how-to-start-tryhackme/ | cybersecurity training (とその日本語解説) |
 |  9| MemLabs | https://github.com/stuxnet999/MemLabs | educational set of CTF-styled challenges to get started with the field of Memory Forensics. |
