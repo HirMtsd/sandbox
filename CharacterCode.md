@@ -55,6 +55,10 @@ https://unicode.org/reports/tr36/
 Zalgo
 https://en.wikipedia.org/wiki/Zalgo_text
 
+Electroharmonix
+https://fontmeme.com/jfont/electroharmonix-font/#google_vignette
+https://on-ze.com/blog/3538
+
 Unicodeで絶対知っておくべきセキュリティ5つの注意（翻訳）
 https://techracho.bpsinc.jp/hachi8833/2021_09_08/48435
 
