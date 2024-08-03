@@ -8,7 +8,7 @@ Last Edit 2024/05/21(TUE) 16:00 JST(+9)
 |  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 97.0.4719.63 | 2023-04-05 | WEB Browser |
 |  x|Tor | https://www.torproject.org/   https://www.torproject.org/download/languages/   https://blog.torproject.org/ | 12.0.4 | 2023-03-18 | WEB Browser |
 |  x|Brave| https://brave.com/ https://github.com/brave/brave-browser | 1.50.114 | 2023-04-05 | WEB Browser |
-|  4|7zip| https://7-zip.org/ | 23.01 | 2023-06-20 | Archiver |
+|  4|7zip| https://7-zip.org/ | 24.07 | 2024-06-19 | Archiver |
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.2 | 2022-12-03 | Text Editor |
 |  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
 |   |Binary Editor BZ| https://gitlab.com/devill.tamachan/binaryeditorbz/  | 1.9.8.7 | 2022-05-08 | Binary Editor |
@@ -16,7 +16,7 @@ Last Edit 2024/05/21(TUE) 16:00 JST(+9)
 |   |HekisaNyan| https://digitaltravesia.jp/usamimihurricane/webhelp/_RESOURCE/MenuItem/another/anotherHekisaNyan.html | 1.8.7.1 | 2024-xx-xx | Binary Editor |
 |  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.09 | 2023-12-29 | File Type Detection |
 |  x|PEiD| https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/PEiD-updated.shtml | 0.95 | 2008-11-06 | Detect packers, cryptors and compilers bundled withPE executables |
-|  x|UPX| https://upx.github.io/   https://github.com/upx/upx/ | 4.2.1 | 2023-11-01 | executable packer | 
+|  x|UPX| https://upx.github.io/   https://github.com/upx/upx/ | 4.2.4 | 2024-05-09 | executable packer | 
 |  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.9.17 | 2022-11-15 |
 |  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.45.1 | 2024-04-29 | Distributed version control |
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/   https://teratermproject.github.io/ | 5.1 | 2023-12-19 | SSH Client |
