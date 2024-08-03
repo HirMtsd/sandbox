@@ -1,5 +1,5 @@
 <!-- since 2022/04/12 -->
-Last Edit 2024/05/21(TUE) 16:00 JST(+9)
+Last Edit 2024/08/03(SAT) 16:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|Purpose and Use|
 |--:|:--|:--|:--|:--|:--|
@@ -17,10 +17,10 @@ Last Edit 2024/05/21(TUE) 16:00 JST(+9)
 |  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.09 | 2023-12-29 | File Type Detection |
 |  x|PEiD| https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/PEiD-updated.shtml | 0.95 | 2008-11-06 | Detect packers, cryptors and compilers bundled withPE executables |
 |  x|UPX| https://upx.github.io/   https://github.com/upx/upx/ | 4.2.4 | 2024-05-09 | executable packer | 
-|  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 2.9.17 | 2022-11-15 |
-|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.45.1 | 2024-04-29 | Distributed version control |
-| 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/   https://teratermproject.github.io/ | 5.1 | 2023-12-19 | SSH Client |
-| 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.78 | 2022-10-29 | SSH Client |
+|  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 3.0.14 | 2024-07-28 |
+|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.46.0 | 2024-07-29 | Distributed version control |
+| 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/   https://teratermproject.github.io/   https://github.com/TeraTermProject/teraterm/releases | 5.2 | 2024-02-29 | SSH Client |
+| 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.81 | 2024-04-15 | SSH Client |
 |  x|OpenSSH| https://github.com/PowerShell/Win32-OpenSSH/releases | v9.2.2.0p1-Beta | 2023-04-18 | SSH CUI Client | 
 | 12|WinSCP| https://winscp.net/   https://winscp.net/eng/downloads.php | 6.1 | 2023-05-23 | FTP Client |
 |  x|FileZilla| https://filezilla-project.org/ | 3.64.0 | 2023-03-07 | FTP Client |
