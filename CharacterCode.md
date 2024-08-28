@@ -52,13 +52,6 @@ UNICODE SECURITY CONSIDERATIONS
 https://unicode.org/reports/tr36/
 
 
-Zalgo
-https://en.wikipedia.org/wiki/Zalgo_text
-
-Electroharmonix
-https://fontmeme.com/jfont/electroharmonix-font/#google_vignette
-https://on-ze.com/blog/3538
-
 Unicodeで絶対知っておくべきセキュリティ5つの注意（翻訳）
 https://techracho.bpsinc.jp/hachi8833/2021_09_08/48435
 
@@ -76,3 +69,13 @@ http://www.arc.ritsumei.ac.jp/archive01/theater/document/hyobanki/fuhyou5.htm
 
 大漢和辞典には１字だけ、本当にこんな字が存在していたのか謎だと言われている不思議な字がある→海外からも考察が集まる
 https://togetter.com/li/1948344
+
+
+## 読めないフォント
+Zalgo
+https://en.wikipedia.org/wiki/Zalgo_text
+
+Electroharmonix
+https://fontmeme.com/jfont/electroharmonix-font/
+https://on-ze.com/blog/3538
+
