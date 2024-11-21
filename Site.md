@@ -7,6 +7,7 @@
 |  x| CrackStation       | https://crackstation.net/         |                                            ||
 |  3| IP Info            | https://ipinfo.io/                |サーバの情報を返す                            |Network問題で使用|
 |  x| DNSlytics          | https://dnslytics.com/            |DNSやIPの逆引き調査                          |Network問題で使用|
+|  x| viewdns            | https://viewdns.info/            |DNSやIPの逆引き調査                          |Network問題で使用|
 |  x| MaxMind            | https://www.maxmind.com/          |IPアドレスの位置調査                          |Network問題で使用|
 |  4| JPNIC              | https://www.nic.ad.jp/ja/         |IP Infoのうち、JPドメインに関するものの詳細   |解析で使用|
 |  5| CMAN               | https://www.cman.jp/network/      |Whoisの横断検索時に便利                       |解析で使用|
