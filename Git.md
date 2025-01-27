@@ -1,3 +1,10 @@
+# gitマニュアル
+Pro Git
+https://git-scm.com/book/en/v2
+日本語版
+https://github.com/progit/progit2-ja
+https://github.com/progit/progit2-ja/releases/tag/2.1.7/progit.pdf
+
 # Gitコマンド
 
 ```cmd
