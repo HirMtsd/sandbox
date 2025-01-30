@@ -7,9 +7,10 @@
 |  x| CrackStation       | https://crackstation.net/         |                                            ||
 |  3| IP Info            | https://ipinfo.io/                |サーバの情報を返す                            |Network問題で使用|
 |  x| DNSlytics          | https://dnslytics.com/            |DNSやIPの逆引き調査                          |Network問題で使用|
-|  x| viewdns            | https://viewdns.info/            |DNSやIPの逆引き調査                          |Network問題で使用|
-|  x| DNSdumpster        | https://dnsdumpster.com
-|  x| SecurityTrails     | https://securitytrails.com
+|  x| viewdns            | https://viewdns.info/             |DNSやIPの逆引き調査                          |Network問題で使用|
+|  x| DNSdumpster        | https://dnsdumpster.com/          |DNS                                          ||
+| 20| SecurityTrails     | https://securitytrails.com/       |DNSの過去歴の検索                             ||
+| 19| RiskIQ             | https://community.riskiq.com/     |DNSの過去情報(Passive DNS)                    |**アクセス不可**|
 |  x| MaxMind            | https://www.maxmind.com/          |IPアドレスの位置調査                          |Network問題で使用|
 |  4| JPNIC              | https://www.nic.ad.jp/ja/         |IP Infoのうち、JPドメインに関するものの詳細   |解析で使用|
 |  5| CMAN               | https://www.cman.jp/network/      |Whoisの横断検索時に便利                       |解析で使用|
@@ -26,8 +27,6 @@
 | 16| Any.run            | https://app.any.run/              |マルウェア解析サービス                        ||
 | 17| Hybrid Analysis    | https://www.hybrid-analysis.com/  |マルウェア解析サービス                        ||
 | 18| Joe Sandbox Cloud  | https://www.joesandbox.com/       |マルウェア解析サービス                        ||
-| 19| RiskIQ             | https://community.riskiq.com/     |DNSの過去情報(Passive DNS)                    ||
-| 20| SecurityTrails     | https://securitytrails.com/       |DNSの過去歴の検索                             ||
 | 21| SHODAN             | https://www.shodan.io/            |Internet Search Engine                        || 
 | 22| CENSYS             | https://censys.io/                |Internet Search Engine                        ||
 | 23| Aguse              | https://gw.aguse.jp/              |踏み台サーバ                                  |マルウェア調査で使用|
