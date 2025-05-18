@@ -5,6 +5,8 @@
 https://bellcurve.jp/statistics/course/6979.html
 
 
+中心極限定理
+
 
 二項定理
 
