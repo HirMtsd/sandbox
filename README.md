@@ -29,3 +29,4 @@
 - [linux_create_user](./linux_create_user.md)
 - [search_engine](./search_engine.md)
 - [win_trouble_shoot](./win_trouble_shoot.md)
+- [その他数学](./MiscMath.md)
