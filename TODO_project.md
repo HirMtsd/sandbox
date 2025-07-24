@@ -117,3 +117,7 @@ http://www.code-magagine.com/?p=509
 
 フロントエンドテスト
 https://zenn.dev/silverbirder/articles/c3de04c9e6dd58
+
+metabase
+
+openrpa
