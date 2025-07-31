@@ -7,3 +7,7 @@ https://www.openstreetmap.org/
 https://www.mapillary.com/
 
 https://what3words.com/
+
+https://yandex.com/maps/
+
+https://wikimapia.org/
