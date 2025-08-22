@@ -21,6 +21,11 @@ https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%88%E3%83%9A%E3%8
 モーリーの定理
 https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%AE%E5%AE%9A%E7%90%86
 
+ベンフォードの法則
+https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%81%AE%E6%B3%95%E5%89%87
+
+
+
 自然数N
 整数Z
 有理数Q
