@@ -1,5 +1,5 @@
 <!-- since 2022/04/12 -->
-Last Edit 2024/08/03(SAT) 16:00 JST(+9)
+Last Edit 2025/11/04(TUE) 16:00 JST(+9)
 
 |No|Name|URL|Latest Version|Release Date|Purpose and Use|
 |--:|:--|:--|:--|:--|:--|
@@ -8,23 +8,23 @@ Last Edit 2024/08/03(SAT) 16:00 JST(+9)
 |  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 97.0.4719.63 | 2023-04-05 | WEB Browser |
 |  x|Tor | https://www.torproject.org/   https://www.torproject.org/download/languages/   https://blog.torproject.org/ | 12.0.4 | 2023-03-18 | WEB Browser |
 |  x|Brave| https://brave.com/ https://github.com/brave/brave-browser | 1.50.114 | 2023-04-05 | WEB Browser |
-|  4|7zip| https://7-zip.org/ | 24.07 | 2024-06-19 | Archiver |
+|  4|7zip| https://7-zip.org/ | 25.01 | 2025-08-03 | Archiver |
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.2 | 2022-12-03 | Text Editor |
 |  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
 |   |Binary Editor BZ| https://gitlab.com/devill.tamachan/binaryeditorbz/  | 1.9.8.7 | 2022-05-08 | Binary Editor |
 |   |Stirling| https://web.archive.org/web/20001216014300if_/http://www2c.airnet.ne.jp/dds2/software.html https://www.vector.co.jp/soft/dl/win95/util/se079072.html | 1.31 | 1999-06-23 | Binary Editor |
 |   |HekisaNyan| https://digitaltravesia.jp/usamimihurricane/webhelp/_RESOURCE/MenuItem/another/anotherHekisaNyan.html | 1.8.7.1 | 2024-xx-xx | Binary Editor |
-|  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.09 | 2023-12-29 | File Type Detection |
+|  7|Detect It Easy | https://github.com/horsicq/Detect-It-Easy/   https://github.com/horsicq/DIE-engine/releases | 3.10 | 2024-11-04 | File Type Detection |
 |  x|PEiD| https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/PEiD-updated.shtml | 0.95 | 2008-11-06 | Detect packers, cryptors and compilers bundled withPE executables |
-|  x|UPX| https://upx.github.io/   https://github.com/upx/upx/ | 4.2.4 | 2024-05-09 | executable packer | 
-|  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 3.0.14 | 2024-07-28 |
-|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.46.0 | 2024-07-29 | Distributed version control |
-| 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/   https://teratermproject.github.io/   https://github.com/TeraTermProject/teraterm/releases | 5.2 | 2024-02-29 | SSH Client |
-| 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.81 | 2024-04-15 | SSH Client |
-|  x|OpenSSH| https://github.com/PowerShell/Win32-OpenSSH/releases | v9.2.2.0p1-Beta | 2023-04-18 | SSH CUI Client | 
+|  x|UPX| https://upx.github.io/   https://github.com/upx/upx/ | 5.0.2 | 2025-07-20 | executable packer | 
+|  8|Joplin | https://joplinapp.org/   https://github.com/laurent22/joplin/  | 3.4.12 | 2025-09-22 |
+|  9|GitForWindows| https://gitforwindows.org/   http://git-scm.com/ | 2.51.2 | 2025-10-28 | Distributed version control |
+| 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/   https://teratermproject.github.io/   https://github.com/TeraTermProject/teraterm/releases | 5.5.0 | 2025-09-16 | SSH Client |
+| 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.83 | 2025-02-08 | SSH Client |
+|  x|OpenSSH| https://github.com/PowerShell/Win32-OpenSSH/releases | v10.0.0.0p2-Preview | 2025-10-23 | SSH CUI Client | 
 | 12|WinSCP| https://winscp.net/   https://winscp.net/eng/downloads.php | 6.1 | 2023-05-23 | FTP Client |
 |  x|FileZilla| https://filezilla-project.org/ | 3.64.0 | 2023-03-07 | FTP Client |
-| 13|WinMerge| https://winmerge.org/ | 2.16.30 | 2023-04-27 | File Difference display |
+| 13|WinMerge| https://winmerge.org/ | 2.16.52 | 2025-10-27| File Difference display |
 |  x|BinDiff| https://www.zynamics.com/bindiff.html   https://github.com/google/bindiff | 8 | 2023-09-25 | Binary Diff | 
 | 14|GrepWin| https://tools.stefankueng.com/grepWin.html   https://github.com/stefankueng/grepWin/releases | 2.0.15 | 2023-06-10 |
 | 15|Windows SysInternals| https://docs.microsoft.com/en-us/sysinternals/   https://docs.microsoft.com/en-us/sysinternals/downloads/ | - | 2023-04-11 |
