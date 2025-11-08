@@ -8,6 +8,7 @@ Last Edit 2025/11/04(TUE) 16:00 JST(+9)
 |  3|Opera| https://www.opera.com/ja/download#opera-browser   https://blogs.opera.com/desktop/ | 97.0.4719.63 | 2023-04-05 | WEB Browser |
 |  x|Tor | https://www.torproject.org/   https://www.torproject.org/download/languages/   https://blog.torproject.org/ | 12.0.4 | 2023-03-18 | WEB Browser |
 |  x|Brave| https://brave.com/ https://github.com/brave/brave-browser | 1.50.114 | 2023-04-05 | WEB Browser |
+|  x|WaterFox| https://www.waterfox.net/ https://github.com/BrowserWorks/Waterfox | 6.6.4 | 2025-10-08 | WEB Browser| 
 |  4|7zip| https://7-zip.org/ | 25.01 | 2025-08-03 | Archiver |
 |  5|SakuraEditor| https://sakura-editor.github.io/   https://github.com/sakura-editor/sakura/releases | 2.4.2 | 2022-12-03 | Text Editor |
 |  6|HxD| https://mh-nexus.de/en/hxd/ | 2.5.0.0 | 2021-02-11 | Binary Editor |
