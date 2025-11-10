@@ -23,8 +23,8 @@ Last Edit 2025/11/04(TUE) 16:00 JST(+9)
 | 10|TeraTerm| https://ja.osdn.net/projects/ttssh2/   https://teratermproject.github.io/   https://github.com/TeraTermProject/teraterm/releases | 5.5.0 | 2025-09-16 | SSH Client |
 | 11|PuTTY| https://www.putty.org/   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html | 0.83 | 2025-02-08 | SSH Client |
 |  x|OpenSSH| https://github.com/PowerShell/Win32-OpenSSH/releases | v10.0.0.0p2-Preview | 2025-10-23 | SSH CUI Client | 
-| 12|WinSCP| https://winscp.net/   https://winscp.net/eng/downloads.php | 6.1 | 2023-05-23 | FTP Client |
-|  x|FileZilla| https://filezilla-project.org/ | 3.64.0 | 2023-03-07 | FTP Client |
+| 12|WinSCP| https://winscp.net/   https://winscp.net/eng/downloads.php | 6.5 | 2025-10-16 | FTP Client |
+|  x|FileZilla| https://filezilla-project.org/ | 3.69.3 | 2023-03-07 | FTP Client |
 | 13|WinMerge| https://winmerge.org/ | 2.16.52 | 2025-10-27| File Difference display |
 |  x|BinDiff| https://www.zynamics.com/bindiff.html   https://github.com/google/bindiff | 8 | 2023-09-25 | Binary Diff | 
 | 14|GrepWin| https://tools.stefankueng.com/grepWin.html   https://github.com/stefankueng/grepWin/releases | 2.0.15 | 2023-06-10 |
@@ -42,8 +42,8 @@ Last Edit 2025/11/04(TUE) 16:00 JST(+9)
 |  x|Aircrack-ng| https://www.aircrack-ng.org/ | 1.7 | 2022-05-10 | tools to assess WiFi network security |
 | 26|ApateDNS| https://fireeye.market/apps/211380   https://www.fireeye.jp/current-threats/freeware/apatedns.html | 1.0 | 2011-09-29 |
 | 27|BIND| https://www.isc.org/ | 9.16.33 | 2022-09 |
-| 28|GIMP| https://www.gimp.org/ | 2.10.36 | 2023-11-07 | GNU Image Manipulation Program |
-| 29|InkScape| https://inkscape.org/ | 1.3 | 2023-07-23 | vector graphics editor |
+| 28|GIMP| https://www.gimp.org/ | 3.0.6 | 2025-10-05 | GNU Image Manipulation Program |
+| 29|InkScape| https://inkscape.org/ | 1.4.2 | 2025-05-13 | vector graphics editor |
 | 30|Graphviz| https://graphviz.org/   https://gitlab.com/graphviz/graphviz/ | 8.0.2 | 2023-04-10 |
 | 31|Xn View MP| https://www.xnview.com/en/xnviewmp/ | 1.4.3 | 2023-02-26 |
 | 32|TweakPNG| http://entropymine.com/jason/tweakpng/ | 1.4.6 | 2014-09-07 |
