@@ -29,7 +29,7 @@
 |  x|ImHex   | https://github.com/WerWolv/ImHex/releases | 1.29.0 | 2023-05-21 | hex editor |
 |  x|XAMPP|https://www.apachefriends.org|8.2.12|2023-11-19|PHP development environment|
 
-
+|  x| metabase | https://www.metabase.com/ | 0.56.13 | 2025-11-05 | BItool |
 
    
 https://joinmastodon.org/
