@@ -60,7 +60,7 @@ Last Edit 2025/11/04(TUE) 16:00 JST(+9)
 |  x|JADX| https://github.com/skylot/jadx/ | 1.4.6 | 2023-02-20 |Java decompiler |
 | 40|SQLDeveloper| https://www.oracle.com/jp/tools/downloads/sqldev-downloads.html | 21.2.1.204.1703 | 2021-08-11 |
 | 41|DBeaver| https://dbeaver.io/   https://github.com/dbeaver/dbeaver/releases/ | 23.0.2 | 2023-04-10 |
-| 42|SQLite| https://www.sqlite.org/ | 3.41.2 | 2023-03-22 |
+| 42|SQLite| https://www.sqlite.org/ | 3.51.0 | 2025-11-04 |
 |   |DB Browser for SQLite | https://sqlitebrowser.org/ | 3.12.2 | 2023-05-04 |
 | 43|MySQL| https://www.mysql.com/   https://dev.mysql.com/downloads/ | 8.0.29 | 2022-04-26 |
 | 44|PostgreSQL| https://www.postgresql.org/ | 14.4 | 2022-06-16 |
@@ -69,7 +69,7 @@ Last Edit 2025/11/04(TUE) 16:00 JST(+9)
 | 47|Splunk| https://www.splunk.com/ | 8.2.6 | 2022-04-05 |
 | 48|procDOT| https://www.procdot.com/ | 1.22 | 2018-08-28 |
 | 49|FTKImager| https://www.exterro.com/   https://www.exterro.com/digital-forensics-software/ftk-imager | 4.7.1 | 2022-01-21 |
-|  x|Autopsy| https://www.autopsy.com/   https://github.com/sleuthkit/autopsy/releases/ | 4.21.0 | 2023-08-30 | Forengic Tool |
+|  x|Autopsy| https://www.autopsy.com/   https://github.com/sleuthkit/autopsy/releases/ | 4.22.1 | 2025-04-16 | Forengic Tool |
 |  x|The Sleuth Kit| https://www.sleuthkit.org/sleuthkit/ | 4.12.1 | 2023-08-29 |command line tools that allow you to investigate disk images |
 | 50|Volatility| https://www.volatilityfoundation.org/   https://github.com/volatilityfoundation/volatility   https://github.com/volatilityfoundation/volatility3 | 2.6.1 (3)2.4.0 | 2018-12-19 2022-12-15 |
 | 51|WinPmem| https://winpmem.velocidex.com/ | 4.0 RC2 | 2020-10-12 |
@@ -79,7 +79,7 @@ Last Edit 2025/11/04(TUE) 16:00 JST(+9)
 | 55|WinPrefetchView| https://www.nirsoft.net/utils/win_prefetch_view.html | 1.37 | 2021-10-27 |
 | 56|Windows Registry Recovery| https://www.mitec.cz/wrr.html | 3.1.0 | 2021-02-16 |
 |  x|Registry Explorer | https://ericzimmerman.github.io/ | - | - |
-| 57|GPG4win| https://www.gpg4win.org/ | 4.3.1 | 2024-03-11 |
+| 57|GPG4win| https://www.gpg4win.org/ | 4.4.1 | 2025-05-26 |
 | 58|GnuPG| https://gnupg.org/ | 2.4.5 | 2024-03-12 |
 | 59|CyberChef| https://gchq.github.io/CyberChef/   https://github.com/gchq/CyberChef/ | 10.4.0 | 2023-03-25 |
 | 60|PDF Stream Dumper| http://sandsprite.com/tools.php | 0.9.624 | 2010-07-21 |
@@ -109,7 +109,7 @@ Last Edit 2025/11/04(TUE) 16:00 JST(+9)
 |  x|Open VAS| https://www.openvas.org/   https://github.com/greenbone/openvas-scanner/   https://greenbone.github.io/docs/latest/ | 22.7.9 | 2023-11-30 |
 |  x|VULS| https://vuls.biz/   https://github.com/future-architect/vuls | 0.24.6 | 12023-11-20 |
 | 79|Sonic Visualiser| https://www.sonicvisualiser.org/ | 4.5.2 | 2023-05-03 | Visualisation, analysis, and annotation of music audio recordings |
-|  x|Audacity | https://www.audacityteam.org/ https://github.com/audacity/audacity/ | 3.3.3 | 2023-06-09 | Free, open source, multi-track audio editor and recorder |
+|  x|Audacity | https://www.audacityteam.org/ https://github.com/audacity/audacity/ | 3.7.5 | 2025-08-05 | Free, open source, multi-track audio editor and recorder |
 | 80|John| https://www.openwall.com/john/   https://github.com/openwall/john | 1.9.0 | 2019-04-12 | password cracker |
 |  x|bkcrack| https://github.com/kimci86/bkcrack | 1.5.0 | 2022-07-08 | Zip password cracker |
 |  x|PikaZip| https://so-zou.jp/software/tool/security/pika-zip/   https://www.vector.co.jp/download/file/win95/util/fh445644.html | 1.17 | 2003-02-16 | Zip password cracker |
