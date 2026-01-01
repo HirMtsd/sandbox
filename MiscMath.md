@@ -26,6 +26,7 @@ https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%8
 
 
 https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%AD%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9%E7%8F%BE%E8%B1%A1
+ウィル・ロジャース現象
 
 
 自然数N
