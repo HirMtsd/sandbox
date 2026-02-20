@@ -35,7 +35,6 @@
 | 26| Wayback Machine    | https://web.archive.org/          |Internet archive                              ||
 | 27| Let me google that for you| https://lmgtfy.app/        |「ググれ」の婉曲表現 ||
 | 28| ScamAdviser        | https://www.scamadviser.com/      |WEBサイトチェック  |安全性調査|　
-
 |29|.net|https://github.com/pan-unit42/dotnetfile|.NET解析||
 
 
